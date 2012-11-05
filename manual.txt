@@ -1,0 +1,24 @@
+##Ubuntu
+
+1. Change URL in get.sh
+
+##BSPlayer
+
+1. Download free version from http://www.bsplayer.com/
+2. Install
+3. Copy lang/English.lng and lang/Belarusian.lng into tmp-manual/bsplayer
+
+##Opera
+
+1. Download Linux .tar version from http://www.opera.com
+2. Copy share/opera/locale/en/en.lng and share/opera/locale/be/be.lng into tmp-manual/opera
+
+##Drupal
+
+1. Run from IDE: "load.Drupal 7.x"
+
+##Wordpress
+
+1. Get from https://codex.wordpress.org/WordPress_in_Your_Language
+2. Extract wp-content/languages/be_BY.po into tmp-manual/wordpress
+
