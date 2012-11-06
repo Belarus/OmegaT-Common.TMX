@@ -1,0 +1,5789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.6.1_2"
+    segtype="paragraph"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="en"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>%(categname)s (%(percentage)s%% translated)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>%(categname)s (перакладзена: %(percentage)s%%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%(lang)s Translation Team</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>%(lang)s суполка перакладчыкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%(lang)s Translation Team Page:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Старонка суполкі перакладчыкаў (%(lang)s):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%(lang_name)s (%(lang_locale)s)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>%(lang_name)s (%(lang_locale)s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%(name)s Release</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выданне %(name)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%(name)s has just joined your translation team on %(site)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Новы ўдзельнік %(name)s толькі што далучыўся да вашай суполкі перакладчыкаў на %(site)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%(site)s - Vertimus actions for the %(lang)s language</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>%(site)s - дзеянні Vertimus для гэтай мовы (%(lang)s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%(site)s - Vertimus actions of the %(lang)s team</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>%(site)s - дзеянні Vertimus для гэтай суполкі (%(lang)s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%s doesn't point to a real file, probably a macro.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>%s не паказвае на сапраўдны файл, магчыма, гэта макраазначэнне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lt;- Back to actions</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&amp;lt;- Вярнуцца да дзеянняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Previous action history)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>(Папярэдняя гісторыя дзеянняў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Return to current actions)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>(Вярнуцца да бягучых дзеянняў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.po file does not pass 'msgfmt -vc'. Please correct the file and try again.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл .po не прайшоў выпрабаванне &quot;msgfmt -vc&quot;. Выпраўце файл і паўтарыце спробу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b&gt;Warning:&lt;/b&gt; The gnome sudoku manual is in the process of being rewritten using Mallard. Mahjongg might be the next one. Don't lose time on translating them.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&lt;b&gt;Увага:&lt;/b&gt; Даведнік для gnome sudoku якраз цяпер істотна перапрацоўваецца ў новым фармаце Mallard. Магчыма, наступным будзе Mahjongg. Лепш не марнуйце свайго часу на іх пераклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A VNC client for GNOME</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кліенцкая праграма VNC для GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A comment is needed for this action.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Для гэтага дзеяння неабходны каментарый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A comment or a file is needed for this action.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Для гэтага дзеяння неабходны каментарый ці файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file is needed for this action.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Для гэтага дзеяння неабходны файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A multimedia converter for the GNOME Desktop</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мультымедыйны пераўтваральнік для Асяроддзя GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A new comment has been posted on %(module)s - %(branch)s - %(domain)s (%(language)s).</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Новы каментарый быў пакінуты ў %(module)s - %(branch)s - %(domain)s (%(language)s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A new person joined your team</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Новы ўдзельнік далучыўся да вашай суполкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A note taking application</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праграма для стварэння нататак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A photo manager for GNOME</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кіраўнік фотаздымкаў для GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A plugin manager library for other GNOME modules</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бібліятэка кіравання плугінамі для іншых модуляў GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аб пляцоўцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>About Damned Lies</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аб Нахабнай мане</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessibility Developers Guide</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік для распрацоўшчыка спец. магчымасцяў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessibility Guide</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік для асоб з абмежаванымі магчымасцямі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Account Registration</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэгістрацыя конта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Account activation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уключэнне конта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дзеянне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дзеянні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Activity summary for '%(lang)s'</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дзейнасць: %(lang)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Activity summary for &lt;a href=&quot;%(url)s&quot;&gt;%(lang)s&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дзейнасць: &lt;a href=&quot;%(url)s&quot;&gt;%(lang)s&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Administration Tools</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прылады адміністравання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Administrators of %s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адміністратары %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Afrikaans</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Афрыкаанс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After registration and connection, you will be able to join an existing team from your profile page.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пасля рэгістрацыі і злучэння вы зможаце далучыцца да дзейнай суполкі перакладчыкаў на старонцы вашага профіля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AisleRiot Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік AisleRiot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Албанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All modules</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Усе модулі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Amharic</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Амхарская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Anjuta Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Anjuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply modifications</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ужыць змены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Арабская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aragonese</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Арагонская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Archive the actions</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зрабіць дзеянні архіўнымі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Archived Actions (%(human_level)s archived series)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Архіўныя дзеянні (%(human_level)s архіўныя групы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Archives</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Архівы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to leave the team?</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вы ўпэўнены, што хочаце выйсці з суполкі?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Armenian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Армянская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assamese</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Асамская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Asturian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Астурыйская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At least 7 characters</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мінімум 7 знакаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Audio Profiles Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па аўдыяпрофілях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Australian English</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Англійская (Аўстралія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authenticate via OpenID &lt;strong&gt;or&lt;/strong&gt; password:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ідэнтыфікаваць пры дапамозе OpenID &lt;strong&gt;ці&lt;/strong&gt; пароля:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Avahi is a system which facilitates service discovery on a local network via the mDNS/DNS-SD protocol suite.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Avahi - сістэма, якая дае магчымасць пошуку паслуг у мясцовай сетцы праз пратаколы mDNS/DNS-SD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Azerbaijani</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Азербайджанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back to Damned Lies home page</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вярнуцца на хатнюю старонку Нахабнай маны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Balochi</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Белуджская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Banshee Music Player</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Музычны прайгравальнік Banshee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Basque</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Басцкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Battery Charge Monitor Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Назіральніка зарадкі батарэі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beagle Desktop Search</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пошук Beagle Desktop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Беларуская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Belarusian Latin</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Беларуская (лацінка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bemba</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бемба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bengali</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бенгальская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bengali (India)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бенгальская (Індыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blackjack Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Блэкджэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bosnian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Баснійская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Branch</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Галіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Branches:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Галіны:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brazilian Portuguese</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Партугальская (Бразілія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breton</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Брэтанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>British English</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Англійская (Вялікабрытанія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse Repository</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Агляд сховішча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browser Help</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведка сеціўнага аглядальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bug reporting</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заяўленне пра хібы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bug tracking page</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Старонка знойдзеных хібаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugzilla account</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Конт у Багзіле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugzilla account:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Конт у Багзіле:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugzilla:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Багзіла:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Балгарская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Burmese</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бірманская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CD Player Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік CD-прайгравальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CPU Frequency Scaling Monitor Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Назіральніка частаты працэсара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't copy new POT file to public location.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Немагчыма скапіраваць новы файл POT у публічнае месца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't generate POT file, statistics aborted.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Немагчыма ўтварыць файл POT, стварэнне статыстыкі перарванае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't generate POT file, using old one.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Немагчыма ўтварыць файл POT, бярэцца стары.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't get statistics for POT file '%s'.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Немагчыма атрымаць статыстыку для файла POT &quot;%s&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Canadian English</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Англійская (Канада)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каталанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Catalan (Valencian)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каталанская (Валенсія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Катэгорыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change my password</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Змяніць мой пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change your details</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Змяніць настройкі свайго конта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change your password</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Змяніць свой пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character Palette Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па табліцы знакаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese (China)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кітайская (Кітай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese (Hong Kong)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кітайская (Ганконг)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese (Taiwan)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кітайская (Тайвань)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese Traditional</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кітайская (традыцыйная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Абраць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose a username:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Абярыце імя карыстальніка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clock Applet Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік аплета Гадзіннік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clocks applications for GNOME</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гадзіннікі GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command Line Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік загаднага радка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каментарый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зафіксавана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committed translations are updated manually on l10n.gnome.org from time to time. Be patient :-)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зацверджаныя пераклады час ад часу абнаўляюцца ўручную на старонцы l10n.gnome.org. Будзьце цярплівымі :-)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committer</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фіксатар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committers</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фіксатары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committing</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фіксацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm password:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праверка пароля:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Coordinated by &lt;a href=&quot;%(url)s&quot;&gt;%(name)s&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каардынатар: &lt;a href=&quot;%(url)s&quot;&gt;%(name)s&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Coordinator</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каардынатар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright &amp;copy; 2006-2012</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўтарскае права &amp;copy; 2006-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Crimean Tatar</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Крымска-татарская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Харвацкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current activities</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бягучая дзейнасць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current activity</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бягучая дзейнасць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Чэшская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D-Bus service to access fingerprint readers.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Служба D-Bus для доступу да чытальніка адбіткаў пальцаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DOC_LINGUAS list doesn't include this language.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма такой мовы ў пераліку DOC_LINGUAS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Damned Lies</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нахабная мана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Damned Lies about GNOME</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нахабная мана пра GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Damned Lies is Free Software, its source code is available under the &lt;a href=&quot;%(gpl)s&quot;&gt;GNU GPL license&lt;/a&gt;. You are welcome to participate to its improvement, especially by &lt;a href=&quot;%(bug)s&quot;&gt;reporting bugs and enhancement proposals&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нахабная мана з'яўляецца свабодным апраграмаваннем. Яе выточны код даступны згодна з умовамі &lt;a href=&quot;%(gpl)s&quot;&gt;Агульнай Грамадскай Ліцэнзіі GNU (GPL)&lt;/a&gt;. Мы заахвочваем вас браць удзел ва ўдасканаленні пляцоўкі, асабліва &lt;a href=&quot;%(bug)s&quot;&gt;паведамляючы нам аб знойдзеных хібах і сваіх ідэях па ўдасканаленні Нахабнай маны&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Damned Lies is able to filter strings which are seldom visible in user interfaces, so as translation teams can concentrate on most visible strings.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пляцоўка Нахабная мана можа адфільтраваць паведамленні, якія рэдка бачныя ў інтэрфейсе карыстальніка. Дзякуючы гэтаму перакладчыкі могуць засяродзіцца на больш ужывальных паведамленнях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Damned Lies is the Web application used to manage the localisation (l10n) of the GNOME project.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нахабная мана - гэта сеціўная пляцоўка для кіравання працэсам лакалізацыі (l10n), якая выкарыстоўваецца праектам GNOME.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Damned Lies site admin</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адміністратар пляцоўкі Нахабная мана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дацкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dasher Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Dasher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Desktop entries for MESS ROMs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Desktop-аб'екты для ROM-файлаў MESS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Падрабязнасці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Development Tools</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прылады распрацоўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Слоўніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diff between po files</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Розніца паміж po-файламі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disk Mounter Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Праграмы для прымацавання дыскаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disk Usage Analyzer Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Аналізатара дыскавай прасторы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display document figures</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паказаць ілюстрацыі дакумента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Divehi</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мальдыўская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дакументацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't know where to look for the DOC_LINGUAS variable, ask the module maintainer.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Невядома, дзе трэба шукаць зменную DOC_LINGUAS, спытайцеся пра яе ў даглядчыка модуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't know where to look for the LINGUAS variable, ask the module maintainer.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Невядома, дзе трэба шукаць зменную LINGUAS, спытайцеся пра яе ў даглядчыка модуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download PO file</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Cцягнуць файл PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download POT file</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Cцягнуць файл POT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download all po files</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сцягнуць усе po-файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Галандская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dynamic content</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дынамічнае змесціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dzongkha</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дзонг-хэ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E-mail address:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адрас электроннай пошты:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Email address:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Адрас электроннай пошты:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Электронная пошта:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encryption Applet Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік аплета шыфравання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter new password</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Увод новага пароля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entry for this language is not present in %(var)s variable in %(file)s file.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма запісу пра такую мову ў зменнай %(var)s у файле %(file)s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entry for this language is not present in ALL_LINGUAS in configure file.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма запісу пра такую мову ў ALL_LINGUAS у файле канфігурацыі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entry for this language is not present in LINGUAS file.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма запісу пра такую мову ў файле LINGUAS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Epiphany Web Browser</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сеціўны аглядальнік Epiphany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error regenerating POT file for %(file)s:
+&lt;pre&gt;%(cmd)s
+%(output)s&lt;/pre&gt;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка пры паўторным утварэнні файла POT для %(file)s:
+&lt;pre&gt;%(cmd)s
+%(output)s&lt;/pre&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error regenerating POT file for document %(file)s:
+&lt;pre&gt;%(cmd)s
+%(output)s&lt;/pre&gt;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка пры паўторным утварэнні файла POT для дакумента %(file)s:
+&lt;pre&gt;%(cmd)s
+%(output)s&lt;/pre&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving pot file from URL.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка атрымання pot-файла з URL-адрасу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error summary</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кароткае апісанне памылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: The file %s contains invalid characters.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка: файл %s змяшчае хібныя знакі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: page not found</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка: старонка не знойдзена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: server error (500)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка: памылка сервера (500)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Errors while running 'intltool-update -m' check.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылкі пры выкананні праверкі &quot;intltool-update -m&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Esperanto</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Эсперанта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Эстонская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Evince Document Viewer</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праглядальнік дакументаў Evince</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Evince is a document viewer for multiple document formats.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Evince - праграма для прагляду дакументаў разнастайных фарматаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example App: Film manager</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прыклад праграмы: Кіраўнік фільмаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example App: Lesson planner</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прыклад праграмы: Планавік заняткаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example App: Music collection</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прыклад праграмы: Музычная калекцыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example App: Project manager</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прыклад праграмы: Кіраўнік праектаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example App: Small business</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прыклад праграмы: Для малога бізнесу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples of release sets are &amp;quot;GNOME Infrastructure&amp;quot; or &amp;quot;GNOME 2.26&amp;quot;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прыклады выданняў: &amp;quot;Інфраструктура GNOME&amp;quot; ці &amp;quot;GNOME 2.26&amp;quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Dependencies (GNOME)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вонкавыя залежнасці (GNOME)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extra GNOME Applications</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дадатковыя праграмы GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extra GNOME Applications (stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дадатковыя праграмы GNOME (стабільныя версіі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eye of GNOME</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вока GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eye of GNOME Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Вока GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FDL License</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ліцэнзія FDL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figures translation status</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стан перакладу ілюстрацый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File in repository</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл у сховішчы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фінская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fish Applet Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік аплета Рыбка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Five or More Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік гульні Пяць і болей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Following files are referenced in either POTFILES.in or POTFILES.skip, yet they don't exist: %s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наступныя файлы не існуюць, хоць на іх спасылаюцца або ў POTFILES.in, або ў POTFILES.skip: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For other localisation needs of GCompris, see  &lt;a href=&quot;http://gcompris.net/wiki/Translation_addons&quot;&gt;http://gcompris.net/wiki/Translation_addons&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Інфармацыю пра іншыя лакалізацыйныя патрэбы GCompris можна знайсці тут &lt;a href=&quot;http://gcompris.net/wiki/Translation_addons&quot;&gt;http://gcompris.net/wiki/Translation_addons&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forgotten your password? Enter your e-mail address below, and we'll e-mail instructions for setting a new one.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Забылі пароль? Увядзіце свой адрас электроннай пошты, і мы прышлём вам інструкцыі па настройцы новага пароля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Four-in-a-row Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік гульні Чатыры ў радок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Французская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frisian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фрызская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Friulian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фрыульская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From GNOME 2.23, GAIL is integrated into GTK+. Don't commit in trunk any more.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пачынаючы ад GNOME 2.23, бібліятэка GAIL інтэгравана ў GTK+. Не пасылайце больш змен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fula</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фула</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Functions</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Функцыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няпэўна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GConf Editor Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Рэдактара GConf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GDM Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік GDM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GIMP User Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік карыстальніка GIMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GIMP and Friends</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GIMP і дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 2.22 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME 2.22 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 2.24 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME 2.24 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 2.26 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME 2.26 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 2.28 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME 2.28 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 2.30 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME 2.30 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 2.32 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME 2.32 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 3.0 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME 3.0 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 3.2 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME 3.2 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 3.4 (old stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] GNOME 3.2 (старое стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME 3.6 (stable)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] GNOME 3.4 (стабільнае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Applets</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аплеты GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Contributor</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Удзельнік GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Contributors</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Удзельнікі GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Desktop</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Працоўны стол GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Developer Platform</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Платформа распрацоўкі GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Development Documentation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дакументацыя распрацоўшчыка GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Infrastructure</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Інфраструктура GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Keyring Manager Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Кіраўніка вязак ключоў GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Klotski Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік GNOME Klotski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Languages</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мовы GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Library Web site</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сеціўная бібліятэка GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Library help</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведка бібліятэкі GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Mahjongg Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Маджонгу GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Modules</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Модулі GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Release Notes</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заўвагі да выдання GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Releases</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выданні GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Robots Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік GNOME Robots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Sudoku Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік GNOME Судоку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Tali Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік GNOME Tali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Teletext viewer</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праглядальнік тэлетэксту для GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Tetravex Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік GNOME Tetravex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Translation Teams</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Суполкі перакладчыкаў GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME User Documentation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дакументацыя карыстальніка GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Video Arcade is a MAME (Multiple Arcade Machine Emulator) front-end for GNOME.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME Video Arcade - гэта абалонка MAME (Multiple Arcade Machine Emulator) для GNOME.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Volume Control Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Рэгулятара гучнасці GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Web Photo</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сеціўны здымак GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME Web site</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сеціўная пляцоўка GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME is being developed by following people:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME распрацоўваюць:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME-Office Productivity Applications</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Офісныя праграмы GNOME-Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GPL License</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ліцэнзія GPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GST Network Setup Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па наладцы сеткі GST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GST Service Management Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Кіраўніка службы GST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GST Shared Folders Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па Супольнадаступных папках GST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GST Time Setup Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па наладцы часу GST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GST User Management Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па кіраванні карыстальнікамі GST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GStreamer Properties Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па ўласцівасцях GStreamer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Galician</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Галісійская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Грузінская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нямецкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Geyes Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Geyes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gnome Parental Control</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бацькоўскі кантроль для асяроддзя Gnome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gnome Specimen</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Gnome Specimen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gnometris Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Gnometris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the &lt;a href='%(team_url)s'&gt;%(language_name)s team page&lt;/a&gt; and help us to translate GNOME!</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перайдзіце на старонку &lt;a href='%(team_url)s'&gt;суполкі перакладчыкаў (%(language_name)s)&lt;/a&gt; і дапамажыце нам перакласці GNOME!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Graph</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Графік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Graphical frontend for the git directory tracker</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Графічная абалонка для сістэмы адсочвання каталогаў git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Грэцкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Guarani</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гуарані</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gujarati</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гуджараці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hausa</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Хаўса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have you forgotten your password?</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Забылі пароль?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hebrew</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Іўрыт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hello,</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вітаем,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дапамога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here we translate the subtitles of selected GNOME videos.
+See &lt;a href=&quot;http://live.gnome.org/VideoSubtitles&quot;&gt;Video Subtitles&lt;/a&gt; for more.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тут мы перакладаем субцітры да выбраных відэафайлаў праекта GNOME.
+Калі хочаце ведаць больш, глядзіце &lt;a href=&quot;http://live.gnome.org/VideoSubtitles&quot;&gt;Відэасубцітры&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide completed modules</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Схаваць скончаныя модулі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hindi</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Хіндзі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дадому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hosted by %(link)s.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Месціцца на %(link)s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Human Interface Guidelines</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Правілы зручнага інтэрфейсу карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Венгерская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I would like to join the following team as 'translator':</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Я хачу далучыцца да наступнай суполкі ў якасці &quot;перакладчыка&quot;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IRC account:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Конт у Багзіле:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IRC nickname</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мянушка IRC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Iagno Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Iagno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Icelandic</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ісландская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ido</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Іда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If anything should be changed on this page, please &lt;a href=&quot;%(bug_url)s&quot;&gt;submit a bug report&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі нейкая інфармацыя на гэтай старонцы мусіць быць зменена, заявіце, калі ласка, &lt;a href=&quot;%(bug_url)s&quot;&gt;пра хібу&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is no team for your language, you can easily &lt;a href='http://live.gnome.org/TranslationProject/StartingATeam/'&gt;start your own team&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі для вашай мовы няма суполкі перакладчыкаў, дык &lt;a href='http://live.gnome.org/TranslationProject/StartingATeam/'&gt;арганізуйце яе самі&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not own an account on this site, you can &lt;a href='%(link)s'&gt;register&lt;/a&gt; for a new account.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі вы не зарэгістраваны на гэтай пляцоўцы, вы можаце &lt;a href='%(link)s'&gt;зарэгістраваць&lt;/a&gt; новы конт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you think you found a better filter for a specific module, please &lt;a href=&quot;%(bug_url)s&quot;&gt;submit a bug report&lt;/a&gt; with your proposal.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі для пэўнага модуля лепш падыходзіць іншы фільтр, пашліце &lt;a href=&quot;%(bug_url)s&quot;&gt;заяўленне пра хібу&lt;/a&gt; з вашай прапановай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you wonder about the name of this application, see &lt;a href=&quot;%(link)s&quot;&gt;this article on Wikipedia&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі вам цікава, адкуль пайшла такая дзіўная назва гэтай пляцоўкі, вы можаце прачытаць аб гэтым у адпаведным &lt;a href=&quot;%(link)s&quot;&gt;артыкуле Вікіпедыі&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Igbo</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ігба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выява</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image too high or too wide (%(width)dx%(height)d, maximum is 100x100 pixels)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выява надта высокая ці надта шырокая (%(width)d%(height)d, можа быць максімальна 100x100 пікселаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inactive</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Неактыўны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inactive members</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Неактыўныя ўдзельнікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Інданезійская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inform of submission</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паведаміць аб адсылцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integration Guide</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па інтэграванні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interlingua</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Інтэрлінгуа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid action. Someone probably posted another action just before you.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Хібнае дзеянне. Відаць, да вас кімсьці ўжо было выканана іншае дзеянне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invest Applet Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік аплета інвеставання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Iranian Azerbaijani</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Азербайджанская (Іран)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ірландская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It allows you to browse live statistics. Damned Lies also manages the translation &lt;a href=&quot;%(link)s&quot;&gt;workflow&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Яна дазваляе бачыць актуальную статыстыку перакладу. Нахабная мана таксама дапамагае пільнавацца &lt;a href=&quot;%(link)s&quot;&gt;правілаў арганізацыі&lt;/a&gt; перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Італьянская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Японская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Join</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Далучыцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Join a new team</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Далучыцца да новай суполкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Join a team</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Далучыцца да суполкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kannada</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Канада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kashmiri</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кашмірская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kazakh</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Казахская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyboard Accessibility Monitor Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Назіральніка даступнасці клавіятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyboard Indicator Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Індыкатара клавіятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Khmer</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кхмерская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kikongo</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Конга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kinyarwanda</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кіньяруанда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kirghiz</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кіргізская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Карэйская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kurdish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Курдская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LGPL License</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ліцэнзія LGPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lao</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Лаоская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last actions made by the %(lang)s team of the GNOME Translation Project</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апошнія дзеянні, зробленыя гэтай суполкай (%(lang)s) праекта перакладу GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last login on %(last_login)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апошні ўваход: %(last_login)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest POT file</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апошні файл POT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest actions made by the %s team of the GNOME Translation Project</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апошнія дзеянні, зробленыя гэтай суполкай (%s) праекта перакладу GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest actions of the GNOME Translation Project for the %s language</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апошнія дзеянні праекта перакладу GNOME для гэтай мовы (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest committed file for %(lang)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апошні зафіксаваны файл для мовы: %(lang)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latin</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Лацінская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Латвійская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layout Descriptions</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апісанне раскладак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выйсці з суполкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lights Off Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Lights Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Limburgian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Лімбургская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of all GNOME Translation Teams, with full information such as primary contact (coordinator), web pages and mailing list information.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пералік усіх суполак перакладчыкаў GNOME і поўныя звесткі пра іх, такія, як асноўны кантакт (ці кантакт каардынатара), сеціўныя старонкі ды спісы ліставання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of all GNOME release sets and releases we gather stats for.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пералік усіх выданняў GNOME, для якіх збіраецца статыстыка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of all languages there are &lt;a href='%(teams_url)s'&gt;Translation Teams&lt;/a&gt; for.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пералік моў, для якіх існуюць &lt;a href='%(teams_url)s'&gt;Суполкі перакладчыкаў&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of all modules with statistics in here.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пералік усіх наяўных модуляў са статыстыкай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Літоўская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log Viewer Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Праглядальніка журналаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log in</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Увайсці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log in with OpenID</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Увайсці з дапамогай OpenID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log in with your username and password:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Увайдзіце ў сістэму з дапамогай свайго імені карыстальніка і пароля:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log out</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выйсці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Login unsuccessful. Please verify your username and password.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уваход не адбыўся. Калі ласка, праверце імя карыстальніка і пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Look here if you want to compare language support in any of these release sets.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Глядзіце тут, калі жадаеце параўнаць моўную падтрымку ў любым з гэтых выданняў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Low German</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ніжненямецкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Luganda</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ганда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Luxembourgish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Люксембургская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Македонская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mailing List:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спіс ліставання:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mailing list</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спіс ліставання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maintainers</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даглядчыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maithili</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Майтхілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Malagasy</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Малагасійская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Malay</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Малайская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Малаялам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mallard Documentation Guide</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па дакументацыі Mallard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мальтыйская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manx</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мэнская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maori</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Маарыйская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Marathi</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Маратхі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark as Inactive</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пазначыць як неактыўнага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>May contain only letters, numbers, underscores or hyphens</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Можа складацца толькі з літар, лічбаў, знакаў падкрэслівання і злучкоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Member of %(team_name)s team (%(role_name)s)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Удзельнік суполкі &quot;%(team_name)s&quot; (%(role_name)s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mexican Spanish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Іспанская (Мексіка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mines Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік гульні Мінёр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Module</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Модуль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Module %s doesn't look like gnome-doc-utils module.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Модуль %s не падобны да модуля, сумяшчальнага з gnome-doc-utils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Module Doc Figure Status: %(name)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стан ілюстрацый модуля дакументацыі: %(name)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Module Statistics: %(name)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Статыстыка модуля: %(name)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Module Translation: %(name)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклад модуля: %(name)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Module maintenance</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дагляд модуля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modules</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Модулі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modules are separate libraries or applications, with one or more branches of development included.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Модулі - гэта асобныя бібліятэкі або праграмы, у якія ўлучаныя адна ці болей галін распрацоўкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mongolian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мангольская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More…</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Яшчэ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Neapolitan</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Неапалітанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nelly Kroes on Open Source</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нэлі Кроес пра адкрыты код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nepali</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Непалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New Action</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Новае дзеянне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New Module Proposals</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прапанаваныя новыя модулі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New password:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Новы пароль:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nibbles Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Nibbles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No comment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Без каментарыяў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No committers</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма фіксатараў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No coordinator</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Каардынатар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No current actions.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма бягучых дзеянняў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No existing file (&amp;quot;Technical&amp;quot; fuzzy)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма файла (&amp;quot;тэхнічна&amp;quot; няпэўна)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No inactive members</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма неактыўных удзельнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No need to edit LINGUAS file or variable for this module</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Неабходнасці змены файла LINGUAS альбо адпаведнай зменнай для гэтага модуля няма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No reviewers</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма карэктараў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No team for locale %s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Для мовы %s няма суполкі перакладчыкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No translators</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма перакладчыкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Northern Sotho</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сота, поўнач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Norwegian (Bokmål and Nynorsk)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нарвежская (букмал і нюнорск)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Norwegian Bokmål</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нарвежская, букмал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Norwegian Nynorsk</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нарвежская, нюнорск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not translated</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Не перакладзена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that many strings visible in the gnome-tweak-tool interface are coming from the &lt;a href=&quot;/module/gsettings-desktop-schemas/&quot;&gt;gsettings-desktop-schemas&lt;/a&gt; module.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Шмат якія паведамленні, якія паказваюцца ў інтэрфейсе gnome-tweak-tool, паходзяць з модуля &lt;a href=&quot;/module/gsettings-desktop-schemas/&quot;&gt;gsettings-desktop-schemas&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: both files are merged with latest POT file.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Увага: абодва файлы аб'яднаныя з апошнім файлам POT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notices</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заўвагі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OLPC</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>OLPC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Obsolete GNOME Applications</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Састарэлыя праграмы GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Occitan</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аксітанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Official GNOME release sets are further divided into categories such as &amp;quot;Desktop Applications&amp;quot; and &amp;quot;Developer Platform&amp;quot;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Афіцыйныя выданні GNOME далей падзяляюцца на катэгорыі, такія, як &quot;Праграмы Працоўнага асяроддзя&quot; і &quot;Платформа распрацоўкі&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old English</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стараанглійская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old password:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стары пароль:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Older Releases</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Старыя выданні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On-going activities in same module:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Цяперашняя дзейнасць у гэтым модулі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only files with extension .po, .gz, .bz2 or .png are admitted.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прымаюцца толькі файлы з пашырэннем .po, .gz, .bz2 ці .png.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenID:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>OpenID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optimization Guide</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па аптымізацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Or use your OpenID:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ці з дапамогай вашага OpenID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Арыгінал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original strings</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Арыгінальныя паведамленні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oriya</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Орыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ossetian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Асецінская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO file '%s' does not exist or cannot be read.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл PO &quot;%s&quot; не існуе, або яго немагчыма прачытаць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO file '%s' doesn't pass msgfmt check: not updating.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Не будзе абнаўлення, таму што файл PO &quot;%s&quot; не прайшоў праверку msgfmt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO file '%s' is not UTF-8 encoded.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл PO &quot;%s&quot; не закадаваны як UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO file statistics (reduced):</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Статыстыка для файла PO (скарочанага):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO file statistics:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Статыстыка для файла PO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>POT file (%(messages)s — %(words)s) — %(updated)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл POT (%(messages)s - %(words)s) — %(updated)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>POT file (%(messages)s — %(words)s, %(figures)s) — %(updated)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл POT (%(messages)s - %(words)s, %(figures)s) — %(updated)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>POT file unavailable</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл POT недаступны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PackageKit is a system designed to make installing and updating software on your computer easier.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>PackageKit - гэта сістэма, створаная для спрашчэння ўсталявання і абнаўлення апраграмавання на вашым камп'ютары.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pan Newsreader</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Чытач навінаў Pan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panel Trash Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Сметніцы на панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pashto</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Афганская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Passepartout is a DTP application for X.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Passepartout - DTP-праграма для X-сістэмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password change</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Змяненне пароля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password reset</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ануляванне пароля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password reset complete</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ануляванне пароля скончана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password reset successful</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пароль паспяхова ануляваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password reset unsuccessful</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няўдалае ануляванне пароля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пароль:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Persian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Персідская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Platform Overview</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Агляд платформы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter your new password twice so we can verify you typed it in correctly.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Увядзіце свой новы пароль двойчы, каб мы маглі праверыць правільнасць яго напісання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter your old password, for security's sake, and then enter your new password twice so we can verify you typed it in correctly.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спачатку для бяспекі ўвядзіце свой стары пароль, а потым двойчы - новы, каб можна было праверыць правільнасць яго напісання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please note that gtk+ has both po and po-properties UI domains.  If you add a new language in either domain, you have to commit both files in Git even if one of them contains 0 translations, unless GTK+ build will break in /po-properties.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GTK+ мае пераклады інтэрфейсу карыстальніка як у дамене po, так і po-properties. Калі вы дадаяце новы пераклад у любы з гэтых даменаў, трэба зафіксаваць абодва файлы ў Git, нават калі адзін з іх не змяшчае перакладу. У іншым выпадку пры зборцы GTK+ адбудзецца памылка ў каталозе /po-properties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please, don't send a file with a 'Reserve' action.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Не прысылайце файлаў з абраным дзеяннем &quot;Заняць&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plural forms:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Формы множнага ліку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Польская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Партугальская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Powered by %(link)s.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Месціцца на %(link)s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Presentation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прэзентацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Progress</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прагрэс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project wiki</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вікі-старонка праекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proofread</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вычытана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proofreading</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вычытка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Property Nicks</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Назвы ўласцівасцяў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PulseAudio is a sound system for POSIX OSes, meaning that it is a proxy for your sound applications.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>PulseAudio - гукавая сістэма для аперацыйных сістэм POSIX, якая з'яўляецца проксі-серверам для вашых гукавых праграм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Punjabi</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Панджабі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quadrapassel Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Quadrapassel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quick Reference</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кароткі даведнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quick links</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Карысныя спасылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RSS feed for %(lang.get_name)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Канал RSS для %(lang.get_name)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ready for submission</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гатовы да адсылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reduced po files</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Скарочаныя po-файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register with OpenID</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зарэгістравацца пры дапамозе OpenID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register with password</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зарэгістравацца пры дапамозе пароля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Registration Success</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паспяховая рэгістрацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выданне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release Notes</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заўвагі да выдання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release Sets</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выданні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release sets</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выданні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Releases Comparison</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Параўнанне выданняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove From Team</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выдаліць з суполкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Report Bug in Translation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заявіць пра хібу ў перакладзе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Report a bug</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заявіць пра памылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Report this bug</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заявіць пра хібу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reserve for proofreading</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заняць для вычыткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reserve for translation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заняць для перакладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reserve to submit</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заняць для адсылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reset my password</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ануляваць мой пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reviewer</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Карэктар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reviewers</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Карэктары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rework needed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Трэба перарабіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rhythmbox Music Player</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Музычны прайгравальнік Rhythmbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Румынская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Руская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Same GNOME Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Same GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Захаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Tool Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Прылады пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for similar bugs before reporting it</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пошук падобных памылак перад заяўленнем пра хібу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a href=&quot;%(link)s&quot;&gt;the GTP Wiki&lt;/a&gt; for more information about coordinatorship.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Больш інфармацыі аб каардынацыі перакладу можна знайсці на &lt;a href=&quot;%(link)s&quot;&gt;пляцоўцы праекта GTP&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a module below to see some of the damned lies about it:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выберыце модуль ніжэй, каб убачыць статыстыку аб ім:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a release or a release set below to see more details about it:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выберыце выданне ніжэй, каб даведацца пра яго больш падрабязнасцяў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a team below to see more information about it:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выберыце адну з суполак, каб даведацца пра яе больш:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send e-mail to the list</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Напісаць у спіс ліставання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send message to the team mailing list</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паслаць паведамленне ў спіс рассылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Serbian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сербская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Serbian Jekavian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сербская (екаўскі дыялект)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Serbian Latin</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сербская (лацінка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server Error</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка сервера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shared MIME Info</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Супольная інфармацыя MIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shavian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Алфавіт Шоу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Existing Bugs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паказаць наяўныя хібы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show completed modules</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паказаць скончаныя модулі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show existing i18n and l10n bugs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паказаць наяўныя памылкі лакалізацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show/hide archived translations</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Пакласці вычытаны пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silesian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сілезская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sinhala</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сінгальская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Site Language</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Мова пляцоўкі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Славацкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Славенская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Somali</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Самалійская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some teams manage more than one language (usually just simple variants), and here you can see all the languages GNOME is being translated to.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Некаторыя суполкі займаюцца не адной мовай (звычайна, простымі адменамі адной мовы), і тут паказаныя ўсе мовы, на якія перакладаюць GNOME.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, the form is not valid.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няправільна запоўненая форма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, the key you provided is not valid.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прапанаваны ключ няправільны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sound Juicer Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Sound Juicer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sound Recorder Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Запісу гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выточны код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>South Ndebele</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ндэбеле, поўдзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Southern Sotho</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сесута</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Іспанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>State</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>State:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стан:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Static content</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Статычнае змесціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Статыстыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sticky Notes Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Ліпучых нататак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strings:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паведамленняў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Submit</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паслаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Submit to repository</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даслаць у сховішча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subscribe</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Падпісацца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swahili</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Суахілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Шведская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swell-Foop Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Swell-Foop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>System Administration Guide</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па адміністраванні сістэмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>System Monitor Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Сістэмнага назіральніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tagalog</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тагальская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tajik</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Таджыцкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тамільская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tatar</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Татарская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team membership</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Удзел у суполках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Teams</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Суполкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Telugu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тэлугу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тайская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The GNOME Project</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праект GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The URL you provided is not valid</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прапанаваны URL-адрас няправільны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The URL you provided seems not to correspond to a valid image</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прапанаваны URL-адрас не адпавядае правільнай выяве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The commit failed. The error was: '%s'</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няўдалая фіксацыя перакладу ў сховішчы. Памылка: &quot;%s&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The figure below describes the various states and actions available during the translation process of a module.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Схема, размешчаная ніжэй, апісвае розныя станы і дзеянні, даступныя на працягу працэсу перакладу модуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The modules of this release are not part of the GNOME Git repository. Please check each module's web page to see where to send translations.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Модулі гэтага выдання не з'яўляюцца часткай Git-сховішча GNOME. Глядзіце сеціўныя старонкі кожнага модуля, каб убачыць, куды слаць пераклады.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most typical case is the strings from schema files, hence the default filter is filtering out strings which come from files having &quot;gschema.xml.in&quot; in their name. Technically speaking, the filter is using the &lt;a href=&quot;%(pogrep_url)s&quot;&gt;pogrep command from the Translate Toolkit&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Звычайна ўжываецца для паведамленняў з файлаў схем, таму прадвызначаны фільтр працуе для файлаў, назвы якіх змяшчаюць &quot;gschema.xml.in&quot;. Калі казаць пра тэхнічныя падрабязнасці гэтай функцыі, дык фільтраванне ажыццяўляецца з дапамогай &lt;a href=&quot;%(pogrep_url)s&quot;&gt;загаду pogrep з Translate Toolkit&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new state of %(module)s - %(branch)s - %(domain)s (%(language)s) is now '%(new_state)s'.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Модуль %(module)s - %(branch)s - %(domain)s (%(language)s) цяпер у новым стане - &quot;%(new_state)s&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The page you requested has not been found on this server.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Запытаная старонка не знойдзена на гэтым серверы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The password reset link was invalid, possibly because it has already been used.  Please request a new password reset.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спасылка для анулявання пароля хібная. Магчыма, яна ўжо была ўжыта раней. Паўтарыце спробу анулявання пароля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The passwords do not match</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паролі адрозніваюцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The registration succeeded. You will now receive an email containing a link to activate your account.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэгістрацыя паспяхова выканана. Неўзабаве вы атрымаеце электронны ліст са спасылкай для актывацыі вашага конта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are currently no translation teams in GNOME. :(</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GNOME не мае ні адной суполкі перакладчыкаў. :(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are some missing files from POTFILES.in: %s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма ў наяўнасці некаторых файлаў з POTFILES.in: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is a glossary that will help translators in Chronojump localization: &lt;a href=&quot;http://git.gnome.org/browse/chronojump/plain/glossary/chronojump_glossary_for_translators.html&quot;&gt;http://git.gnome.org/browse/chronojump/plain/glossary/chronojump_glossary_for_translators.html&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гласарый, які дапамагае перакладчыкам у лакалізацыі Chronojump: &lt;a href=&quot;http://git.gnome.org/browse/chronojump/plain/glossary/chronojump_glossary_for_translators.html&quot;&gt;http://git.gnome.org/browse/chronojump/plain/glossary/chronojump_glossary_for_translators.html&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is currently no established team for this language. See &lt;a href=&quot;http://live.gnome.org/TranslationProject/StartingATeam&quot;&gt;the GTP Wiki&lt;/a&gt; to get more information about the process of building a new translation team.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Для вашай мовы няма суполкі перакладчыкаў. Глядзіце &lt;a href='http://live.gnome.org/TranslationProject/StartingATeam/'&gt;на вікі-старонцы GTP&lt;/a&gt; інфармацыю аб стварэнні новай суполкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are usually taken from the Git repository, and we keep all relevant information on them (Bugzilla details, web page, maintainer information,...).</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Звычайна яны бяруцца са сховішча Git, і для іх захоўваецца ўся адпаведная інфармацыя (звесткі Багзілы, сеціўная старонка, звесткі даглядчыка і г.д.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This OpenID URL is already taken by a registered user</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэты URL-адрас OpenID ужо заняты зарэгістраваным карыстальнікам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This PO file has an executable bit set.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл PO з пастаўленым бітам выканальнасці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This POT file has not been generated through the standard gnome-doc-utils method.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэты файл POT быў утвораны без дапамогі стандартнага метаду gnome-doc-utils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This POT file has not been generated through the standard intltool method.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэты файл POT быў утвораны без дапамогі стандартнага метаду intltool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This Web site has been translated in your language by:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэтая сеціўная пляцоўка была перакладзена на вашу родную мову наступнымі ўдзельнікамі праекта:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This a low-priority module to translate, as there are currently no user interface that show those strings.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэта модуль для перакладу з нізкім прыярытэтам, таму што пакуль што няма ніякага інтэрфейсу карыстальніка, які б паказваў гэтыя паведамленні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This branch is currently string-frozen.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэтая галіна часова замарожана для змен паведамленняў для перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This branch is not linked from any release</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэтая галіна не злучаецца ні з водным выданнем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This content may use &lt;a href='http://en.wikipedia.org/wiki/Markdown'&gt;Markdown&lt;/a&gt; syntax</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Можна ўжываць сінтаксіс &lt;a href='http://en.wikipedia.org/wiki/Markdown'&gt;Markdown&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is written in Mallard documentation format</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэты дакумент напісаны ў фармаце дакументацыі Mallard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a clone of the official system-tools-backends version from the freedesktop.org repository.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэта копія афіцыйнай версіі system-tools-backends са сховішча freedesktop.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a confirmation that your registration on %s succeeded. To activate your account, please click on the link below or copy and paste it in a browser.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэта пацвяржэнне паспяховай рэгістрацыі ў %s. Каб уключыць ваш конт, пстрыкніце ў спасылку ўнізе ці адкрыйце яе ў сеціўным аглядальніку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is an automated message sent from %s.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэта аўтаматычнае паведамленне, пасланае з %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This module is not part of the GNOME Git repository. Please check the module's web page to see where to send translations.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэты модуль не з'яўляецца часткай сховішча GNOME Git. Праверце сеціўную старонку модуля, каб убачыць, куды слаць пераклады.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This should be an email address, useful if not equal to 'E-mail address' field</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тут павінен быць адрас электроннай пошты. Запоўніць у выпадку, калі ён не супадае з пазначаным у графе &quot;Адрас электроннай пошты&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This team has currently no coordinator.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэтая суполка цяпер не мае каардынатара.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This team is not using the Vertimus translation workflow.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэтая суполка не ўжывае арганізацыйны працэс перакладу Vertimus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This team is using the Vertimus translation workflow</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэтая суполка ўжывае арганізацыйны працэс перакладу Vertimus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This username is already taken. Please choose another.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гэтае імя карыстальніка ўжо занята. Калі ласка, абярыце іншае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tibetan</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тыбецкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To Commit</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Патрабуе фіксацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To Review</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Патрабуе праверкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To ease localization, gallery of GNOME Video Effects has been set up here: &lt;a href=&quot;http://live.gnome.org/GnomeVideoEffects/Effects&quot;&gt;http://live.gnome.org/GnomeVideoEffects/Effects&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каб палегчыць лакалізацыю, па гэтым адрасе размешчана галерэя відэаэфектаў асяроддзя GNOME: &lt;a href=&quot;http://live.gnome.org/GnomeVideoEffects/Effects&quot;&gt;http://live.gnome.org/GnomeVideoEffects/Effects&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To submit your translation, &lt;a href=&quot;https://bugzilla.gnome.org/enter_bug.cgi?product=NetworkManager&amp;component=general&quot;&gt;create a bug report for NetworkManager on the GNOME Bugzilla&lt;/a&gt;. Then, attach your translation file.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каб прыслаць пераклад, &lt;a href=&quot;https://bugzilla.gnome.org/enter_bug.cgi?product=NetworkManager&amp;component=general&quot;&gt;стварыце заяўленне пра хібу для NetworkManager у Багзіле GNOME&lt;/a&gt;. Пасля прычапіце ваш файл перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перакладзена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated, but uses original one (maybe the figure doesn't contain any string to translate)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перакладзена, але ўжываецца арыгінал (магчыма, ілюстрацыя не змяшчае паведамленняў для перакладу)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated/Fuzzy/Untranslated</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перакладзена/Няпэўна/Неперакладзена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translating</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перакладаецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations for this module are externally hosted. Please go to the &lt;a href=&quot;%(link)s&quot;&gt;external platform&lt;/a&gt; to see how you can submit your translation.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклады гэтага модуля змяшчаюцца на вонкавым серверы. Наведайце &lt;a href=&quot;%(link)s&quot;&gt;вонкавую платформу&lt;/a&gt;, каб даведацца, як даслаць пераклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations should be submitted as bug reports (see link below).</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклады неабходна прысылаць у выглядзе заяўленняў пра хібы (глядзіце спасылку ніжэй).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translator</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перакладчык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перакладчыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tsonga</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тсонга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turkish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Турэцкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turkmen</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Туркменская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorial demos</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Навучальныя дэма-праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UI Translations</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклады інтэрфейсу карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UI Translations (reduced)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклады інтэрфейсу карыстальніка (скарочана)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UI translation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклад інтэрфейсу карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UI translations</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклады інтэрфейсу карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL to an image file (.jpg, .png, ...) of an hackergotchi (max. 100x100 pixels)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>URL-адрас для файла выявы (.jpg, .png, ...) аватары (максімум - 100x100 пікселаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL to subscribe</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>URL для падпіскі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uighur</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уйгурская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ukrainian</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Украінская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo the last state change</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адрабіць апошнюю змену стану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Невядома</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload a .po, .gz, .bz2 or .png file</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пакласці на сервер файл .po, .gz, .bz2 ці .png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload the new translation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пакласці новы пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload the proofread translation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пакласці вычытаны пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploaded file by %(name)s on %(date)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл апублікаваны ўдзельнікам %(name)s, %(date)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Urdu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Урду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used in release(s):</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ужываецца ў выданні(ях):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful information on localization of the gnumeric analysis tools can be found in the &lt;a href =&quot;http://git.gnome.org/browse/gnumeric/plain/po/README.analysis&quot;&gt;po/README.analysis&lt;/a&gt; file.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Інфармацыю, неабходную для лакалізацыі аналітычных прылад праграмы Gnumeric, можна знайсці ў файле &lt;a href =&quot;http://git.gnome.org/browse/gnumeric/plain/po/README.analysis&quot;&gt;po/README.analysis&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Directories</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каталогі карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Guide</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Interface</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Інтэрфейс карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Interface (red.)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Інтэрфейс карыстальніка (скарочана)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Login</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Даведнік карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Імя карыстальніка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uzbek</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Узбецкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uzbek (Cyrillic)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Узбецкая (кірыліца)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uzbek (Latin)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Узбецкая (лацінка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video subtitles translations for selected GNOME videos</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераклады субцітраў для выбраных відэафайлаў праекта GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vietnamese</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>В'етнамская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Volume Control Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік Рэгулятара гучнасці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Walloon</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Валонская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We're sorry but a server error has occurred.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адбылася памылка сервера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We're sorry, but your account has been disabled.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>На жаль, ваш конт быў выключаны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We've e-mailed you instructions for setting your password to the e-mail address you submitted. You should be receiving it shortly.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>На пададзены вамі адрас электроннай пошты былі высланыя інструкцыі па настройцы пароля. Неўзабаве вы іх атрымаеце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weather Applet Locations</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Назвы месцаў для аплета Надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weather Report Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік па справаздачы аб надвор'і</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Web page</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сеціўная старонка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WebKitGTK+</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>WebKitGTK+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сеціўная пляцоўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welsh</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уэльская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you see a po file or a table header containing &quot;(red.)&quot; or &quot;(reduced)&quot;, it means that the target files have been filtered as stated above.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файлы PO або загалоўкі з пазнакай &quot;(скарочана)&quot; азначаюць файлы з паведамленнямі, адфільтраванымі паводле вышэй апісаных правілаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without comment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Без каментарыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Слоў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Workflow</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Арганізацыя працэсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Write a comment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Напісаць каментарый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Xhosa</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кшоса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Y-m-d g:i a O</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>d-m-Y G:i O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yiddish</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ідыш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yoruba</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Іоруба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are already logged in as %(username)s.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вы ўжо ўвайшлі як карыстальнік %(username)s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are already member of this team.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вы ўжо з'яўляецеся ўдзельнікам гэтай суполкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are not a member of this team.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вы не з'яўляецеся ўдзельнікам гэтай суполкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can register here for an account on this site. This is only useful if you plan to contribute to GNOME translations.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тут можна зарэгістраваць конт на гэтай пляцоўцы. Ён патрэбны, толькі калі вы планіруеце браць удзел у перакладзе GNOME.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have been logged out.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сеанс закончаны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have been removed from the team '%s'.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вы былі выдалены з суполкі &quot;%s&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have been successfully logged in.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вы паспяхова ўвайшлі ў сістэму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have not joined any translation team yet. You can do it from &lt;a href=&quot;%(url)s&quot;&gt;your profile&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пакуль што вы не далучыліся ні да адной суполкі перакладчыкаў. Вы можаце гэта зрабіць у &lt;a href=&quot;%(url)s&quot;&gt;вашым профілі&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have successfully joined the team '%s'.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вы паспяхова далучыліся да суполкі &quot;%s&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must either provide an OpenID or a password</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Трэба ўвесці OpenID ці пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need &lt;a href=&quot;%(login_url)s&quot;&gt;to be authenticated&lt;/a&gt; and member of the %(team_name)s team.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Неабходна &lt;a href=&quot;%(login_url)s&quot;&gt;ідэнтыфікацыя&lt;/a&gt; і ўдзел у адпаведнай суполцы (%(team_name)s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your account has been activated.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ваш конт быў уключаны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your password has been changed.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ваш пароль быў зменены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your password has been set. You may go ahead and log in now.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ваш пароль зменены. Цяпер вы можаце ўвайсці ў сістэму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zulu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зулу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alpha-to-logo filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>фільтр alpha-to-logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>animation filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>анімацыйны фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>appendix</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>дадатак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>artistic filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>мастацкі фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>blur filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>размывальны фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>colors auto menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню аўтаматычных колераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>colors component menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню складнікаў колераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>colors info menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню інфармацыі аб колерах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>colors map menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню карты колераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>colors menus</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню колераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>combine filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>спалучальны фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>concepts</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>ідэі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>decor filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>аздабляльны фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dialogs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>дыялогі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diff with:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>розніца з:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>distort filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>фільтр скрыўлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>edge-detect filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>фільтр выяўлення краёў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>edit menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню праўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>enhance filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>фільтр паляпшэння</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>file menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>filters</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>фільтры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>filters menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню фільтраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>freedesktop.org (non-GNOME)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>freedesktop.org (не GNOME)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>generic filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>агульны фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gimp</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>gimp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glChess Manual</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даведнік glChess</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glom is a user-friendly database application.&lt;br&gt;
+Apart from the UI messages and the documentation, there are additional example files that can be translated.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>glom - гэта зручная праграма для працы з базамі даных.&lt;br&gt;
+Акрамя паведамленняў інтэрфейсу і дакументацыі яшчэ можна перакласці колькі дадатковых файлаў-прыкладаў да гэтай праграмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>гласарый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gnome-disk-utility provides libraries and applications for dealing with storage devices.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>gnome-disk-utility забяспечвае бібліятэкамі і праграмамі для працы з прыстасаваннямі захоўвання даных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gnome-utils has been split into new modules after GNOME 3.2: baobab, gnome-font-viewer, gnome-dictionary, gnome-screenshot, gnome-search-tool and gnome-system-log</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Модуль gnome-utils быў падзелены на новыя модулі пасля выдання GNOME 3.2: baobab, gnome-font-viewer, gnome-dictionary, gnome-screenshot, gnome-search-tool і gnome-system-log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>help menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню даведкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>image menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню выявы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>introduction</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>уводзіны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>layer menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню пласта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>libgimp</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>libgimp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>light-and-shadow filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>фільтр святла і ценю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>map filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>фільтр пераносу ўласцівасцяў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>menus</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>moserial is a clean, friendly gtk-based serial terminal for the GNOME desktop. It is written in Vala for extra goodness.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праграма moserial - прыязны паслядоўны тэрмінал, заснаваны на gtk+ і створаны для асяроддзя GNOME. Да таго ж, ён напісаны на мове Vala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>noise filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>шумавы фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>plug-ins</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>плугіны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>preface</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>прадмова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>preferences</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>настройкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>python</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>render filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>фільтр візуалізацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>script-fu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>script-fu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>select menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню выбару</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tags</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>цэтлікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tips</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>падказкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolbox</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>панэль прылад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolbox (color)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>панэль прылад (колеры)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolbox (paint)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>панэль прылад (маляванне)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolbox (selection)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>панэль прылад (выбар)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolbox (transform)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>панэль прылад (пераўтварэнне)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translator-credits</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Юры Тарасевіч &lt;yury.tarasievich@gmail.com&gt;
+Кацярына Бондарава &lt;kasia.bondarava@gmail.com&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tutorial</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>падручнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>updated on %(date)s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>абноўлена %(date)s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using gimp</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>выкарыстанне gimp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>view menu</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>меню віду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>web filter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>сеціўны фільтр</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,3145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.6.1_2"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="en"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>%</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%s Dictionary</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>%s Слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+0</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>+0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+1</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+2</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>+2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+3</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>+3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+4</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>+4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-1</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-2</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A_ddress</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Адрэса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Word To</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Дадаць слова да</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Word to Dictionary</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дадаць слова да слоўніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add directory to be indexed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Тэчкі, якія ня трэба індэксаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Раўнаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment &amp; Behavior</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] &lt;b&gt;Паводзіны раўнаньня&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Applications data miner</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Дастасаваньні:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to bind an unbound item %p</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спроба прычапіць адчэплены элемэнт %p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to bind to %p an already bound dock object %p (current master: %p)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спроба прывязаць да %p ужо павязаны ўбудаваны аб'ект %p (дзейны галоўны элемэнт: %p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to dock a dock object to an unbound placeholder</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спроба далучыць убудаваны аб'ект да нясчэпленай меткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempting to add a widget with type %s to a %s, but it can only contain one widget at a time; it already contains a widget of type %s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спроба дадаць віджэт тыпу %s да %s, але ён можа мець толькі адзіны віджэт; ён ужо мае віджэт тыпу %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Тло:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background Image</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відарыс тла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blue Ink</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Блакітныя чарніла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тлусты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bottom</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Унізе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C_ell</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ячэя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C_olor:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Колер:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C_olumns:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Слупкі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C_ustom:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] асабісты выбар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Call to gdl_dock_object_dock in a dock object %p (object type is %s) which hasn't implemented this method</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выклік gdl_dock_object_dock ва ўбудаваным аб'екце %p (тып аб'екту %s), які ня мае гэтага мэтаду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot allocate default font for printing</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Немагчыма прызначыць дапомны шрыфт для друку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot dock %p to %p because they belong to different masters</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Немагчыма ўбудаваць %p у %p, таму што яны належыць розным галоўным элемэнтам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Case _sensitive</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Залежыць ад рэгістра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cell Contents</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Зьмест ячэі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cell Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уласьцівасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cell...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Ячэя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Center</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Цэнтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Center Alignment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Раўнаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check _Spelling...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Праверыць правапіс слова...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose Custom Color</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выбярыце свой колер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close this dock</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Закрыць гэтую панэль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Co_lor:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Колер:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Col_umn</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Слупок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colors</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Колеры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Column</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Слупок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Column After</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Слупок пасьля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Column Before</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Слупок перад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Column Span:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Шырыня слупка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confidential</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сакрэтная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Controlling dock item</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кіруючы ўбудаваны элемэнт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy selected text to the clipboard</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Капіяваць вылучанае ў буфэр абмену</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright Tracker Authors 2005-2010</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Аўтарскія правы © 2005-2008 аўтары Трэкеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not establish a connection to Tracker</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] %s: адсутнічае сувязь з службай tracker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not open the link.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Немагчыма загрузіць файл glade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cr_ying</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>П_лаксівасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cu_t</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Выразаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current _Languages</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Бягучыя _мовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Color...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Колер карыстальніка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cut selected text to the clipboard</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Выразаць вылучанае ў буфэр абмену</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease Indent</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Па_меншыць водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default title</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прадвызначаная назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default title for newly created floating docks</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прадвызначаная назва для новых створаных плыўкіх панэляў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default title for the newly created floating docks</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прадвызначаная назва для новых створаных плыўкіх панэляў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Desktop Search preferences</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Перавагі _індэксатару</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] %s Слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dirty</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьменены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dock #%d</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Панэль #%d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dock master</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кіраўнік панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dock master this dock object is bound to</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кіраўнік панэлі, да якога прычэплены гэты ўбудаваны аб'ект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dock operation requested in a non-bound object %p. The application might crash</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Можа адбыцца аварыя ў праграме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dockbar style</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стыль панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dockbar style to show items on it</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стыль адлюстраваньня элемэнтаў на панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dockitem which 'owns' this grip</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Элемэнт панэлі, адказны за гэтую паласу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dockitem which 'owns' this tablabel</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Элемэнт, які кіруе цэтлікам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draft</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Чарнавік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FILE</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] ФАЙЛ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to insert HTML file.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць: файл HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Шукаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find A_gain</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Шукаць далей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Float X</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Плыўкі Х</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Float Y</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Плыўкі Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Floating</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Плыўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Floating Toplevel</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Плыўкі верх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font Color</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Колер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font Size</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Памер _шрыфта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font _Size</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Памер _шрыфта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For_mat</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Фармат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GdlDockMaster object which the dockbar widget is attached to</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аб'ект GdlDockMaster, да якого прычэплены віджэт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GdlDockMaster or GdlDockObject object which the layout object is attached to</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Аб'ект GdlDockMaster, да якога далучаны аб'ект раскладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Асноўнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General behavior for the dock item (i.e. whether it can float, if it's locked, etc.)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Агульныя паводзіны элемэнта мэню (ці будзе ён плыўкім, калі ён заблякаваны, ды інш.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General options</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Гутаркі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got a detach signal from an object (%p) who is not our host %p</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Атрыманы сыгнал адлучэньня ад аб'екта (%p), які не з'яўляецца бацькоўскім %p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Graph Paper</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Папера для графікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GtkHTML Test</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тэст GtkHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML Source</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Крыніца:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hea_der Style</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Стыль загалоўку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Header _1</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загаловак _1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Header _2</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загаловак _2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Header _3</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загаловак _3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Header _4</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загаловак _4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Header _5</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загаловак _5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Header _6</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загаловак _6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вышыня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Height for the dock when it's of floating type</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вышыня панэлі, калі яна плыўкага тыпу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Height for the widget when it's attached to the placeholder</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вышыня віджэта, калі той злучаны зь меткай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Схаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Host</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вузел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Human readable name for the dock object</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Чытэльная назва ўбудаванага аб'екта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I_mage:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відарыс:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Iconified</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Зрабіць з гэтай панэлі іконку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Iconify this dock</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зрабіць з гэтай панэлі іконку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Idle</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>бязьдзейнічае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If is set to 1, all the dock items bound to the master are locked; if it's 0, all are unlocked; -1 indicates inconsistency among the items</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі выстаўленае на 1, то ўсе ўбудаваныя элемэнты, зьвязаныя з галоўным, заблякаваныя; калі на 0, то ўсе элемэнты разблякаваныя; -1 азначае няўзгодненасьць элемэнтаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If set, the dock item can be resized when docked in a GtkPanel widget</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі ключ усталяваны, памер элемэнта можа быць зьменены, калі ён прычэплены да віджэта GtkPanel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If set, the dock item cannot be dragged around and it doesn't show a grip</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі ключ усталяваны, элемэнт мэню немагчыма перасоўваць і ён не паказвае паласу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore Misspelled Word</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ігнараваць памылковае слова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уласьцівасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Відарыс...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Images</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відарысы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Indent</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Па_вялічыць водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Index removable devices</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Перавагі _індэксатару</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indexes</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] індэксуе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indexing</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>індэксуе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indexing Preferences</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Перавагі _індэксатару</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Input Methods</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мэтады уводу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Emoticon</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць спасылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert HTML File</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць: файл HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Image</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць відарыс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Link</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уставіць спасылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Rule</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Table</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць відарыс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Text File</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць: тэкставы файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert _Link</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць спасылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нахілены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Item behavior</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паводзіны элемэнта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Laug_h</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Весялосьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layout</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] &lt;b&gt;Плян&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Злева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left Alignment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Раўнаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Limit the number of results shown</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Абмежаваць колькасьць вынікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Link</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спасылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Link Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уласьцівасьці спасылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Link...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Спасылка...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List all miners installed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Паказаць усе вызначаныя цэтлікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Locations</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Дастасаваньні:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заблякаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Locked</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заблякаваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long name</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Доўгая назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кіраўнік панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Middle</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пасярэдзіне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Midnight</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Начная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next placement</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наступнае месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No files were found</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] %s: файл %s ня знойдзены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No results found for “%s”</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] На ваш запыт нічога ня знойдзена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No results found matching your query</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>На ваш запыт нічога ня знойдзена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No results were found matching your query</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] На ваш запыт нічога ня знойдзена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Няма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numbered _List</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Нумараваны сьпіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One or more files have not been specified</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Пошук файлаў з канкрэтным цэтлікам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orientation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Арыентацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orientation of the docking item</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Арыентацыя элемэнта мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Іншыя:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pa_ge...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Старонка...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Старонка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уласьцівасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Старонка...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pages</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Відарысы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paper</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Папера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уласьцівасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph Style</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Стыль абзаца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Абзац...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paste _Quotation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уставіць _цытаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paste text from the clipboard</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць з буфэра абмену</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perforated Paper</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перфараваная папера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pixbuf icon for the dock object</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Убудаваная іконка для ўбудаванага аб'екта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain Source</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Звычайны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain Text</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Звычайны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain _Text</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Звычайны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пазыцыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position of the divider in pixels</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пазыцыя сэпаратара ў піксэлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferred height</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Улюбёная вышыня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferred height for the dock item</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Улюбёная вышыня элемэнта мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferred width</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Улюбёная шырыня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferred width for the dock item</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Улюбёная шырыня элемэнта мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prefixes</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Перавагі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Print Pre_view</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Перад_прагляд друку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уласьцівасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>R_eplace All</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Замяніць усё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>R_eplace:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Замена:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re_place</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Замяніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re_place...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] За_мяніць...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo the last undone action</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Аднавіць апошні крок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove Link</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выдаліць спасылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove selected tag</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Адчапіць вызначаны цэтлік з файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Замяніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace Confirmation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Падцьверджаньне замены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace _All</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Замяніць усё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Скіданьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resizable</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памер можна зьмяняць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ribbon</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стужка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зправа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right Alignment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Раўнаньне па праваму баку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Радок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row Above</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Радок вышэй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row Below</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Радок ніжэй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row Span:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Шырыня радка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rule Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уласьцівасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rule...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Правіла...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S_haded</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] У цяні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S_ick</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Кволы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S_urprise</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Зьдзіўленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save _As...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Захаваць файл як...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Межы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search _backwards</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Шукаць у _адваротным накірунку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search and Indexing</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пошук і індэксаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for contacts</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] По_шук цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for document files</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Глядзець дакумэнт %s
+у %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for emails</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] По_шук цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for files</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] По_шук цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for folders</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] По_шук цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for image files</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] По_шук цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for music files</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Пошук характэрнай паслугі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select An Image</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Вылучыць _усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select _All</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вылучыць _усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Semantics</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Статыстыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Si_ze:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памер:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Something weird happened while getting the child placement for %p from parent %p</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка вызначэньня месца даччынага элемэнта %p на бацькоўскім %p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spell Checker</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Праверка правапіса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Статыстыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Status options</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Статыстыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sticky</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ліпкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stock Icon</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Убудаваная іконка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stock icon for the dock object</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Убудаваная іконка для ўбудаванага аб'екта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Перакрэсьленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стыль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Submit Query</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даслаць пытаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switcher Style</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стыль пераключальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switcher buttons style</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стыль кнопак пераключальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TAG</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>ЦЭТЛІК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T_emplate:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Узор:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Табліца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table Delete</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Выдаленьне табліцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table Insert</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Устаўка табліцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уласьцівасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Табліца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Цэтлікі :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Te_xt File...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Тэкставы файл...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Properties</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уласьцівасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Тэкст...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dock object this placeholder is attached to</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Убудаваны аб'ект, да якога дачэплены займальнік месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The index of the current page</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Індэкс бягучай старонкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new dock controller %p is automatic.  Only manual dock objects should be named controller.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Толькі ўручную ўбудаваныя аб'екты мусяць называцца кантролерамі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The position an item will be docked to our host if a request is made to dock to us</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пазыцыя, у якой элемэнт будзе дачэплены да нашага вузла, калі будзе атрыманы запыт да ўбудовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Top</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наверсе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tracker</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Трэкер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tracker File System Miner</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Жывы пошук ад Tracker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tracker Miner for Flickr</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Жывы пошук ад Tracker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tracker Store</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Сайт праграмы Tracker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>True if the layouts have changed and need to be saved to a file</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праўда, калі расклад зьменены і павінны быць запісаны ў файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UnLock</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Разблякаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Падкрэсьленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo the last action</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адкаціцца на адзін крок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique name for identifying the dock object</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Унікальная назва для вызначэньня ўбудаванага аб'екта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported docking strategy %s in dock object of type %s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Непадтрыманы мэтад прычапленьня %s ва ўбудаваным аб'екце тыпу %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untitled document</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Уставіць табліцу у дакумэнт...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether editor changed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Ці рэдагуецца html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether the dock is floating in its own window</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Панэль можа плаваць толькі ў сваім акне?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether the placeholder is standing in for a floating toplevel dock</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ці будзе метка нерухомай адносна плыўкай панэлі верхняга ўзроўню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether the placeholder will stick to its host or move up the hierarchy when the host is redocked</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ці будзе займальнік месца трымацца свайго вузла або пасунецца вышэй у герархіі, калі вузел зьменіць аснову ўбудовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While loading layout: don't know how to create a dock object whose nick is '%s'</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памылка падчас загрузкі раскладу: невядома, як стварыць убудаваны аб'ект '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Шырыня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Width for the dock when it's of floating type</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Шырыня панэлі, калі яна плыўкага тыпу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Width for the widget when it's attached to the placeholder</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Шырыня віджэта, калі той злучаны зь меткай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Width:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Шырыня:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X Coordinate</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>X-каардыната</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X coordinate for a floating dock</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каардыната Х для плыўкай панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X coordinate for dock when floating</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>X-каардыната для ўбудаваньня плыўкай панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Y Coordinate</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Y-каардыната</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Y coordinate for a floating dock</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каардыната Y для плыўкай панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Y coordinate for dock when floating</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Y-каардыната для ўбудаваньня плыўкай панэлі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can't add a dock object (%p of type %s) inside a %s. Use a GdlDock or some other compound dock object.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Карыстайцеся GdlDock альбо іншымі складанымі аб'ектамі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_About</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пр_а...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Add Word</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Дадаць слова да</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Alignment</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Раўнаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Alignment:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Раўнаньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Alphabetical List</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Сьпіс па альфабэце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Back</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Адваротны накірунак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Background:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тло:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Big Smile</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Усьмешка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Bold</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Тлусты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Border:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рамка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Bulleted List</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Сьпіс з пунктаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Cell...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Ячэя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Center</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Цэнтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Color:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Колер:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Copy</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Капіяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Decrease Indent</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Па_меншыць водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Description:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апісаньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Edit</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Рэдагаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Find</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Шукаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Find...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Пошук...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Font Style</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Памер _шрыфта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_HTML File...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Файл _HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_HTML Source</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Крыніца:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Height:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вышыня:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Horizontal:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Па гарызанталі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Image</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Відарыс:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Image...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Відарыс...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Image:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відарыс:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Increase Indent</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Па_вялічыць водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Insert</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Уставіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Italic</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Нахілены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Left</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Лева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Link</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Спасылка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Link...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Спасылка...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Link:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спасылка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Next</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наступнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Normal</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Нармальны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Padding:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Інтэрвал:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Paragraph Style</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Стыль абзаца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Paste</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Уставіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Plain</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Звычайны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Plain Source</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Звычайны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Plain Text</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Звычайны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Preformatted</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Папярэднефарматаваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Print...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Наведаць...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Redo</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Вяртаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Regular expression</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Сталы выраз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Replace</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Замяніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Right</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Права</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Roman Numeral List</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Сьпіс з рымскім нумараваньнем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Row</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Радок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Rows:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Радкі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Rule</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Правіла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Rule...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Правіла...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Size:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Памер _шрыфта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Smile</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Усьмешка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Source:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Крыніца:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Spacing:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прамежак:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Strikethrough</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] _Перакрэсьленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Style:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Стыль:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Table</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Табліца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Table...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Табліца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Test URL...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Тэст URL...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Text:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тэкст:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_URL:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Underline</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Падкрэсьленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Undo</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Адкаціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Vertical:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Па вэртыкалі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Width:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Шырыня:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Wink</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Падмігваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_With:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Шырыня:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Wrap Lines</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Перанос радкоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Wrap Text</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>_Перанос радкоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_X-Padding:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>X-Інтэрвал:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_Y-Padding:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Y-Інтэрвал:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>black</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>чорны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>blue</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>сіні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>custom</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>асабісты выбар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dark red</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>цёмна-чырвоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>follow</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>прасачыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gold</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>залаты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gray</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>шэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>green</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>зялёны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>light brown</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>сьветла-карычневы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>light green</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>сьветла-зялёны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>light grey</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>сьветла-шэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>light orange</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>сьветла-цытрынавы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lime</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>вапна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>magenta</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>малінавы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>master %p: unable to add object %p[%s] to the hash.  There already is an item with that name (%p).</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ужо існуе элемэнт з такой назвай (%p).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>navy</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>марскі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>orange</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>цытрынавы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>pink</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>ружовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>purple</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>пурпурны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>purple #2</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>пурпурны #2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>px</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>px</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>red</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>чырвоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>red purple</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>чырвона -пурпурны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>red-orange</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>чырвона-цытрынавы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>search terms</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] %s: прапушчаны словы пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sky blue #2</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>нябесна-блакітны #2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unknown time</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>[PO-fuzzy] Невядома</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>white</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>белы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yellow</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>жоўты</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

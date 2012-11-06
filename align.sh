@@ -51,6 +51,6 @@ align gnome-infrastructure AlignPO UTF-8 data/gnome/gnome-infrastructure/
 align gnome-office AlignPO UTF-8 data/gnome/gnome-office/
 align gnome-olpc AlignPO UTF-8 data/gnome/olpc/
 
-for i in tmx/segmented/*.tmx tmx/non-segmented/*.tmx; do
-  gzip -9 $i
-done
+#for i in tmx/segmented/*.tmx tmx/non-segmented/*.tmx; do
+#  gzip -9 $i
+#done

@@ -1,0 +1,4600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.6.1_2"
+    segtype="paragraph"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="en"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot; sec&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot; сек.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;'Boss' button configuration&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Канфігурацыя кнопкі 'боса'&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;'What you see'&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Бягучы памер&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;(move mouse over 1st or 2nd field and press key or mouse button)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;(перамясьціце мыш па-над 1-ай або 2-ой вобласьці й націсьніце кнопку мышы або клавіятуры)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;100%&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;100%&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;16:9&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;16:9&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;2 Speaker mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэжым 2 дынаміка&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;200%&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;200%&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;3D audio&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;3D аўдыё&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;4 Speaker mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэжым 4 дынамікі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;4:3&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;4:3&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;50%&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;50%&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;6 Speaker mode (5.1 channel)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэжым 6 дынамікаў (5.1 канал)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;About&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аб праграме...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;AboveNormal&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Вышэй нармалёвага&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Add URL&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Дадаць URL&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Add bookmark&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Дадаць закладку&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Add extension&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Дадаць пашырэньне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Add files(s)...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Дадаць файл(ы)...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Add folder&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Дадаць папку&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Add&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Дадаць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Adjusts the priority class of BSplayer.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прыярытэт працы BSPlayer.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Advanced&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Дадаткова&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Allow multiple instances&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Дазваляе запускаць некалькі копіяў BSPlayer адначасова&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Alpha blending value&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Альфа-зьмешваньне (для VMR9)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Alt&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Alt&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Always on top overlay mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Заўсёды наверсе (у аверлэю)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Always on top&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Заўсёды наверсе&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Always start in full screen mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Заўсёды стартаваць у поўнаэкранным рэжыме&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Anamorphic&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Анамарфатны&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;As previous&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Як папярэдні&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Aspect ratio&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Суадносіны бакоў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Aspect&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выгляд&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Assigned key/mouse button&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Супастаўленая клавіша&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Associated extensions&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Супастаўленныя пашырэньні&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;At start switch to&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэзалюцыя пры запуску&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Audio file&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўдыё файл&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Audio stream selection&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўдыё струменявы выбар&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Audio streams&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўдыё струмені &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Audio&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўдыё&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Author&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўтар&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Auto hide main window&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўтаматычна хаваць панэль кіраваньня&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Auto load any subtitles in current folder&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўтаматычна загружаць субтытры зь бягучай папкі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Auto play&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўта прайграваньне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Auto position&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўта становішча&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Auto resize font if line is too long&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Маштабаваць шрыфт, калі радок задужа доўгі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Auto split lines that are too long&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўтаматычна разьбівае радкі, якія зьяўляюцца задужа доўгімі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Auto subtitle position&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўта пазыцыя субтытраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Auto&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аўта&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;BS.Player preferences&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады BSplayer&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Background&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Фон&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;BelowNormal&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Ніжэй нармалёвага&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Bookmark added&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Закладка дадана&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Bookmarks editor&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэдактар закладак&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Bookmarks...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Закладкі...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Borderless play window&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Акно фільма бяз рамкі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Both vocal&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;голас  з абодвух&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Bottom offset&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зрух зьнізу&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Brightness &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Яркасьць &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Buffer size (MB)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Памер буфэра (Мб)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Buffering... &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Буферызацыя... &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;CPU\n(Quality)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;CPU\n(Якасьць)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Cancel&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адмена&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Capture frame (screenshot)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Захаваць кадр&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Capture settings&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады захопу&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Change resolution&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зьмяніць рэзалюцыю&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Chapters&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Часткі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Check for new version&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Праверыць новую версію&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Choose...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Вылучыць...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Clear history&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Вычысьціць гісторыю&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Close file&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зачыніць файл&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Close&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зачыніць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Closed&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;зачынены&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Color controls&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады колеру&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Color&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Колер&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Color...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Колер...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Config&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налада&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Contrast &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Кантраст &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Ctrl&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Ctrl&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Custom Pan&amp;Scan settings&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады памеру панарамы&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Custom aspect ratios&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зададзеныя суадносіны бакоў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Custom position&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зададзенае становішча&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Custom&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Ручная налада&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Cut top and bottom of video in full screen mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выразаць верхнюю й ніжнюю мяжу відэа ў поўнаэкранным рэжыме&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;DSP plugin&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;DSP плагін&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Decrease by 1%&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паменшыць на 1%&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Decrease by 10%&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паменшыць на 10%&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Decrease font size&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паменшыць памер шрыфта&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Dedynamic Amplification &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Узмацненьне фільтра Dedynamic &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Dedynamic Pre Amplification &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прадузмацненьне фільтра Dedynamic &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Default&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Па змаўчаньню&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Delete bookmark&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выдаліць закладку&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Delete&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выдаліць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Description&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Апісаньне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Desktop mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэжым 'Працоўны стол'&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Disable YV12 format&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адключыць фармат YV12&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Disable plugins (restart required)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адключыць плагіны (патрабуецца перазапуск)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Disable skinned menus (restart required)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адкл. скураныя меню (патр. перазапуск)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Disable skinned windows (restart required)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адкл. скураныя вокны (патр. перазапуск)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;DivX 3.11 Post processing &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Постапрацоўка Divx 3.11 &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;DivX 3.11 properties&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады Divx 3.11&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;DivX 4+ properties&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады Divx 4+&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;DivX Post processing &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Постапрацоўка Divx &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Dn&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уніз&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Dolby surround&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Dolby surround&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Don't resize video in full screen&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Не маштабаваць відэа ў поўнаэкранным рэжыме&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Don't use WinLIRC&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Не выкарыстоўваць WinLIRC&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Draw OSD messages to overlay&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паведамленьні OSD на аверлэю&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Draw subtitles to Overlay surface&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выводзіць субтытры на аверлэй&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Edit bookmarks...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэдагаваць закладкі...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Enable OSD&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уключыць OSD&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Enable S/PDIF output&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уключыць S/PDIF выхад&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Enable Winamp DSP plugins&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уключыць DSP-плагіны Winamp&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Enable advanced plugins support&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уключыць палепшаную падтрымку плагінаў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Enable advanced support for Winamp DSP plugins.\nAll Winamp DSP plugins should work in this mode, but it uses a little more CPU.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уключае палепшаную падтрымку для DSP-плагінаў мэдыяплэйера Winamp.\nУ гэтым рэжыме здольныя працаваць усе DSP-плагіны Winamp, але гэты рэжым\nтрохі дужэй загрузіць працэсар.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Enable full screen skin&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уключыць поўнаэкранную скуру&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Enable network buffering&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уключыць буфэрызацыю сеціва&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Equalizer&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Экваляйзэр&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Exit&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выхад&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Export as chapters&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зах. як часткі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;FFDshow properties&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады FFDshow&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Fast forward&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Наперад&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Fast rewind&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Назад&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;File icon&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Іконка файлаў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;File name&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Імя файла&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;File types&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Тыпы файлаў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Film Effect&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Эфект фільма&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Filters&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Фільтры&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Font color&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Колер шрыфта&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Font smoothing (0 = disabled)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Згладжваньне шрыфта (0 = адключана)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Font&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Шрыфт&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Font...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Шрыфт...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;For AC3 decoding use&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Для дэкадаваньня AC3&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;For full screen mode switch to&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэзалюцыя пры поўным экрану&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Frame saved to &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Кадр захаваны ў &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Frames&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Кадры&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Full screen mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Поўнаэкранны рэжым&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Full screen&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэжым 'Поўны экран'&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Gamma correction&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Карэкцыя гамы&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;General settings&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Агульныя налады&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;General&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Асноўныя&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;High&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Высокі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;How many seconds to seek forward/backward (for Jump forward/backward option).&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;На колькі сэкундаў пераходзіць пры выкарыстаньні каманды Перайсьці наперад/назад.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;How much font smoothing to use, uses a little more CPU&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Чым больш згладжваньне, тым больш загрузка працэсара&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;How much to prebuffer at start and seek operation&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Колькі прадбуфэрызаваць у пачатку&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Hrs:Min:Sec&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Гадзін:Мін:Сек&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Hue &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адценьне &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked BSplayer will try to open files that are in use (still downloading, recording...)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана BSPlayer паспрабуе адчыняць файлы  якія выкарыстоўваюцца (яшчэ запампоўваюцца, запісваюцца...)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked Subtitle Mixer DirectShow filter will be used for displaying subtitles in OGG files.\nOtherwise they will be handled by player like any other subtitle.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, для паказа субтытраў у OGG-файлах будзе выкарыстоўвацца\nDirectShow фільтар 'Subtitle Mixer'. Інакш BSPlayer будзе апрацоўваць\nгэтыя субтытры гэтак жа, як і субтытры іншых фарматаў..&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked display_horizontal_size, display_vertical_size, frame_centre_horizontal_offset and frame_centre_vertical_offset\ninformation from MPEG files (if present) will be used (pan-scan and picture position),\notherwise this information will be ignored.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, display_horizontal_size, display_vertical_size, frame_centre_horizontal_offset і frame_centre_vertical_offset\nінфармацыя зь MPEG файлаў (калі ёсьць такая) будзе выкарыстана,\nінакш гэтая інфармацыя будзе ігнаравацца.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked first subtitle file that is found in current folder will bo automaticaly loaded.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, то першыя знойдзеныя субтытры ў бягучай папцы будуць аўтаматычна загружаныя.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked margins will be ignored for primary display and enabled for other displays (TV)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, межы будуць ігнаравацца для першаснага дысплэю й дазваляцца для іншых дысплэяў (ТБ)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked play window will be without border&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, у акне з прайграваным фільмам ня будзе рамкі па ўскрайках&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked player will always start movie in full screen mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, BSPlayer будзе заўсёды пачынаць прайграваньне фільма ў поўнаэкранным рэжыме&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked player will remeber all settings for every movie played (aspect ratio, subtitles, font...).&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, BSPlayer будзе захоўваць усе налады для кожнага\nпрайграванага фільма (суадносіны бакоў, субтытры, шрыфт...).&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If checked top and bottom of video will be cut (in full screen mode, if video height &gt; monitor height)\nin a way that will fit to screen.\nUsefull on wide (16:9) monitors, so there is no black bars on left and right.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, верхняя й ніжняя мяжа відэа будзе выразана (у поўнаэкранным рэжыме, калі вышыня відэа больш за вышыню экрана)\nкаб адпавядаць памеру экрана.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled BSplayer will be snaped to screen edges.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, BSPlayer будзе прышчапляць відэа-акно да ўскрайкаў экрана.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled BSplayer won't try to connect to WinLIRC server. A little faster startup.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, то BSPlayer ня будзе спрабаваць злучыцца\nз серверам WinLIRC. Гэта трохі паскорыць запуск BSPlayer'у.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled main player window will be automaticaly shown on mouse move. (Only in full screen mode).&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, панэль кіраваньня будзе аўтаматычна\nз`яўляцца пры руху мышы. (Толькі ў поўнаэкранным рэжыме).&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled main player window will be shown when you click on video window. (Only in full screen mode).&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, панэль кіраваньня будзе аўтаматычна\nз`яўляцца пры пстрычцы мышшу па відэа акну. (Толькі ў поўнаэкранным рэжыме).&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled main window will be automaticaly hidden after few seconds. (Only in full screen mode).&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, панэль кіраваньня будзе аўтаматычна хавацца. (Толькі ў поўнаэкранным рэжыме).&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled movie will be paused when you click on video window.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, то фільм будзе пастаўлены на паўзу пры пстрычцы мышшу па відэа акну.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled movie will start playing after you open it, if not you must press Play button.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, прайграваньне фільма пачнецца адразу пасьля яго адкрыцьця,\nкалі не, то неабходна будзе яшчэ націснуць кнопку 'Прайграваньне'.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled video window will 'follow' main window.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, акно з прайграваным фільмам\nбудзе перамяшчацца разам з асноўным акном&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If enabled video won't be resized in full screen just centered.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі азначана, то відэа ня будзе маштабавацца ў поўнаэкранным рэжыме/nяно будзе проста зьмешчана ў цэнтар экрана.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;If subtitle file can't be find in current folder, player will try to load it from folder specified here.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі файл з субтытрамі ня знойдзены ў бягучай папцы, BSPlayer паспрабуе загрузіць яго з папкі, указанай тут.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Ignore margins for primary display&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Ігнараваць межы для першаснага дысплэю&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Increase by 1%&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Павялічыць на 1%&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Increase by 10%&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Павялічыць на 10%&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Increase font size&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Павялічыць памер шрыфта&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;InterVideo AC3&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Intervideo AC3&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Internal format&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Унутраны фармат&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Jump backward&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Перайсьці назад&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Jump forward&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Перайсьці наперад&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Jump to time&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Пераход на зададзены час&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Jump to:&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Пераход да:&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Jump&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Перайсьці&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Keep aspect ratio&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Захоўваць суадносіны бакоў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Key definitions &amp; WinLIRC&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Клавішы &amp; WinLIRC&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Language&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Мова&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Left offset&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зрух зьлева&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Left vocal&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;голас зьлева&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Length&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Даўжыня&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Length:&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Працягласьць:&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;List&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Сьпіс&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Load EQ preset&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Загрузіць EQ прэсет&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Load external audio file...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адчыніць аўдыёфайл...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Load from file...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Загрузіць з файла...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Load subtitles...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Загрузіць субтытры...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Load&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Загрузіць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Low&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Нізкі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Luminance gain&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Павяліч. яркасьці&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Luminance offset&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зрух яркасьці&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Manual correction&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Ручная карэкцыя&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Maximum subtitle display time (msec)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Максімальны час паказа субтытраў (мсек)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Media info&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Відэа інфармацыя&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Mono&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Мона&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Move Down&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Ніжэй&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Move Up&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Вышэй&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Move slider to adjust custom pan&amp;scan value&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Перамясьціце паўзунок для налады памеру панарамы&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Movie mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэжым фільма&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Movie size: &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Памер: &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;NOFILE&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Няма файла&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Network buffer&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Буфэр сеціва&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;New line&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Новы радок&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Next CD&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Наступны CD&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Next chapter&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Наступная частка&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Next&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Наступны&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;No audio&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Бяз гуку&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;No change&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Бяз зьмяненьняў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;No subtitles&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Без субтытраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;No vocal&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;няма голасу&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;None&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Не&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Normal&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Нармалёвы&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;OK&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Так&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;OSD background&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Колер фону OSD&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;OSD font&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Шрыфт OSD&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;OSD position&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Палажэньне OSD&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;OSD sample&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;OSD узор&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;OSD&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;OSD&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Only effective with internal renderers, smoother video in most cases, but video could go out of sync on lower end systems.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі рэжым аверлэю не ўключаны, BSPlayer усё роўна выкарыстае колеры YUV, калі відэакарта падтрымлівае пераўтварэньне YUV-&gt;RGB.\nкалі азначана гэтая опцыя, будзе выкарыстоўвацца RGB рэжым.\nКодэк таксама павінен падтрымліваць працу з RGB.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Open URL&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адчыніць URL&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Open URL...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адчыніць URL...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Open file...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адчыніць файл...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Open locked media files (files in use)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адчыняць заблакаваныя файлы (якія выкарыстоўваюцца)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Open&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адчыніць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Opening...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адкрыцьцё...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Options&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Опцыі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Original size&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Арыгінальны памер&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Original&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Арыгінальнае&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Output device&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прылада вываду&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Pan in&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Больш&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Pan out&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Менш&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Pan&amp;Scan &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Панарамаваньне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Pan-Scan&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Панарамаваньне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Pan-scan&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Панарама&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Pause movie on single click&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паўза пры пстрычцы мышшу&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Pause&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паўза&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Picture properties&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады малюнка&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Play all&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прайграваць усе&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Play&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прайграваньне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Playback rate &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Хуткасьць прайграваньня &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Playback rate&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Хуткасьць прайграваньня&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Playback&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прайграваньне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Player functions&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Функцыі прайгравальніка&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Playlist defaults&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Сьпіс прайграваньня па змаўчанню&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Playlist&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Сьпіс прайграваньня&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Plugins&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Плагіны&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Postprocessing Level&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Узровень постапрацоўкі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Prebuffer (%)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прадбуфэр (%)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Preferences...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Presets&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прэсеты&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Press Backspace twice to clear&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Двойчы націсьніце\nBackspace для вычышчэньня&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Previous CD&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Папярэдні CD&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Previous chapter&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Папярэдняя частка&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Previous&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Папярэдні&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Process priority&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прыярытэт&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;RGB mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;RGB рэжым1&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Random&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выпадкова&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Randomize&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рандамізаваць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Re-enable DWM composition (Aero) when BS.Player is closed&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць рэжым аверлэю 1&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Ready&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Гатовы&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Realtime (not recommended)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэальнага часу (не рэкамэндуецца)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Recent media&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Апошнія файлы&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Register extensions on player start&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэгістраваць пашырэньні пры запуску&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Rem&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выд.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remember Pan-Scan settings&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Запамінаць налады панарамаваньня&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remember last movie position&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Запамінаць пазыцыю апошняга фільма&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remember movie settings&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Запамінаць налады фільма&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remember movie window size&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Запамінаць памер відэа-акна&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remember settings&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Памятаць налады&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remember zoom&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Запамінаць маштаб&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remembers Pan-Scan option and custom pan-scan settings.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Запамінае налады панарамаваньня.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remembers movie window size.\nFor ex. If movie is 352x288 and you resize window to 690x566,\nthen when you play next movie\nwindow will stay resized to 690x566.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Запамінае памер відэа-акна.\nНапрыклад, калі акно фільма памерам 352x288 расьцягнуць да 690х566,\nпры наступным прайграваньні фільма акно застанецца памерам\n690х566.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remembers zoom&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Запамінае маштаб&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remove all&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выдаліць усе&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remove extension&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выдаліць пашырэньне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Remove&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выдаліць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Repeat all&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паўтор усе&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Repeat off&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паўтор адключаны&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Repeat one&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паўтор адзін&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Reset to default&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Па змаўчаньню&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Reverse&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зваротнае&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Right offset&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зрух справа&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Right vocal&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;голас справа&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Saturation &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Насычанасьць. &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Save EQ preset&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Захаваць EQ прэсет&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Save as...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Захаваць як...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Save to file (relative paths)...&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Захаваць у файл (адносныя шляхі)...&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Save to file&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Захаваць у файл&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Seconds to jump&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Велічыня пераходу (сек.)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Select all&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Вылучыць усе&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Select audio streams&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Вылучыць аўдыё струмені&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Select none&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Скасаваць усе&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Selecting for ex. 3D audio or\nS/PDIF will have no effect if \nyou don't have hardware that\nsupports this.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Адбор для напр. 3D аўдыё  ці\nS/PDIF ня будзе маць ні якага эфекту калі \nвы ня маеце апаратных сродкаў, \nякія падтрымліваюць гэта.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Shift&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Shift&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Show main window on mouse move&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паказаць панэль кіраваньня пры руху мышы&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Show main window on single click&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паказаць панэль кіраваньня пры пстрычцы мышшу&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Show subtitles&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паказаць субтытры&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Show/Hide main window&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Паказаць/Схаваць панэль кіраваньня&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Skins&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Скуры (Skins)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Snap play window to main window&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прышчапляць відэа-акно да панэлі кіраваньня&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Snap player window to screen edges&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прышчапляць відэа-акно да ўскрайкаў экрана.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Some graphics cards have problems with YV12 color space. If this option is enabled YV12 format won't be used.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;У некаторых відэакарт бываюць праблемы з колерамі YV12. Калі азначана, фармат YV12 ня будзе выкарыстоўвацца.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Sort by file name&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Сартаваць па ймёнах файлаў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Sort by path and file name&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Сартаваць па адрэсах й імёнах файлаў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Sort&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Сартаваць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Stereo&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Стэрэа&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Stop&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Стоп&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Stream &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Струмень &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle editor&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Рэдактар субтытраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle margins bottom (%)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Вышыня межаў субтытраў (%)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle margins width (%)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Шырыня межаў субтытраў (%)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle position offset &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Ссоўваньне пазыцыі субтытраў &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle properties&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Налады субтытраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle sample&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Узор субтытраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle time correction +&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Карэкцыя часу субтытраў +&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle time correction -&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Карэкцыя часу субтытраў -&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle time correction&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Карэкцыя часу субтытраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle time correction: &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Карэкцыя часу субтытраў: &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitle: &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Субтытры: &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitles background color&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Колер фону субтытраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitles disabled&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Субтытры адключаныя&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitles folder&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Папка з субтытрамі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Subtitles&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Субтытры&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Switches to specified resolution on startup.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Пераключае рэзалюцыю пры запуску.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Switches to specified resolution when full screen mode is choosen.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Пераключае рэзалюцыю пры поўнаэкранным рэжыме.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;System default&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Сыстэмнае па змаўчаньню&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Text format&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Тэкставы фармат&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;This combination is already assigned to:&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Гэтая камбінацыя ўжо прызначана на:&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;This is how long should be subtitles, that don't have defined end time, displayed.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Колькі часу павінны адлюстроўвацца субтытры, у якіх не зададзены час адключэньня.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Time (sec)&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Час (сек)&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Time&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Час&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Top offset&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зрух зьверху&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Translations by:&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Пераклады ад:&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Transparent background&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Празрысты фон&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Transparent&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Празрысты&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Tray icon&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Іконка ў трэю&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Try not to drop frames&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць RGB рэжым&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Type&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Тып&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;URL&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;URL&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Uncompressed&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Ня сьціснуты&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Up&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Уверх&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Use 'display extension' information from MPEG files&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць 'экраннае пашырэньне' інфармацыю з MPEG файлаў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Use 'shadow' effect for subtitles&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць эфэкт цені для субтытраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Use Dedynamic filter&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць фільтар Dedynamic&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Use Subtitle Mixer for subtitles in OGG files&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць Subtitle Mixer для субтытраў у файлах OGG&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Use anti-aliased font&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Зглажваць шрыфты&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Use internal Vorbis decoder&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць унутраны Vorbis дэкодэр&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Use outline font&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць шрыфт з акантоўкай&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Use positive values if subtitles are behind and negative if subtitles\nare displayed too early.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Выкарыстоўваць дадатныя значэньні, калі субтытры адстаюць\nі адмоўныя, калі субтытры зьяўляюцца задужа рана.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Useful for Matrox cards to get subtitles on TV&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Карысна для відэакарт Matrox, каб вывесьці субтытры на экран ТБ&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Usefull for TV output when overscan is enabled, so subtitles won't be outside of visible area&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Карысна для вываду ТБ, калі расьцяг малюнка дазваляецца, так што субтытры ня будуць па-за бачнай вобласьцю.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Video Streams&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Відэа струмені&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Video rendering&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Відэа выкананьне&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Video&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Відэа&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Viewer&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Прагляд&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;VobSub delay: &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Затрымка Vobsub субтытраў: &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;VobSub speed: &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Хуткасьць Vobsub субтытраў: &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Vocal options&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Галасавыя налады&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Volume: &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Гучнасьць: &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Wait for vertical blank&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Чакаць вертыкальнага прабелу&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Wait for vertical blank: &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Чакаць вэртыкальнага прабелу: &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Waits for vertical-blank interval.&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Чакаць інтэрвалу вертыкальнага прабелу.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;When 'boss' button is pressed:&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Калі кнопка 'боса' націснута:&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;WinAmp2 DSP plugins&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;DSP плагіны Winamp 2&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;WinLIRC address and port&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;WinLIRC адрэса й порт&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;WinLIRC button name\n(ENTER to confirm)\nOr press button on remote&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;WinLIRC кнопка\n(Enter - пацьвердзіць)\nці цісьніце кнопку на ДК&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Winamp plugin folder&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Папка з Winamp-плагінамі&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Windowed mode&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Аконны рэжым&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;Zoom&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Маштаб&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;ffdshow Luminance gain &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Павялічэньне яркасьці ffdshow &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;ffdshow Post processing &quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Постапрацоўка ffdshow &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&quot;frames&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;кадраў&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Strings,35</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#Strings,35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Strings,36</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#Strings,36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Strings,37</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#Strings,37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Strings,38</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#Strings,38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#WID20,100</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#WID20,100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#WID20,101</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#WID20,101</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#WID20,102</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#WID20,102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#WID26,2</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#WID26,2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#WID26,3</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#WID26,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#WID26,5</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#WID26,5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#WID32,19</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>#WID32,19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аб праграме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дадаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add bookmark</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дадаць закладку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjust delay</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэгуляваньне затрымкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Always On Top</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заўсёды наверсе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Always On Top Ovr mode</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Заўсёды наверсе (на аверлэю)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ужыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aspect anamorphic</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Анамарфотны выгляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aspect ratio 16:9</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Суадносіны бакоў 16:9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aspect ratio 4:3</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Суадносіны бакоў 4:3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Audio channels</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўдыё каналы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Audio encoder</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўдыё кодэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Audio encoding format</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фармат кадаваньня аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Audio format</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўдыё фармат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Audio stream volume cycle</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Цыклічна зьмяняць гучнасьць гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto tune</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўтаналада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Average Bitrate (kbit)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сярэдні Бітрэйт (кбіт)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Average frame rate achieved</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сярэдняя хуткасьць перадачы кадраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Average sync offset (mSec)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сярэдні зрух сынхранізацыі (мсек)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BST</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Basket davey88@mail.ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Boss button</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кнопка боса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Buffer status</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стан буфэра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CD-ROM drives</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>CD-ROM дыскі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Capture configuration</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Налады захопу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Capture decoded (uncompressed) video</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зхоп дэкадаванага (ня сьціснутага) відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Capture frame - &quot;What you see&quot;</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Захаваць кадр бягучага памера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Capture frame - original image size</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Захаваць кадр арыгінальнага памера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Center frequency (Hz)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сярэдняя частата (Гц)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмяніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Channel</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Канал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Channel number</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нумар11каналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter viewer</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прагляд частак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close movie</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зачыніць фільм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close player</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зачыніць прайгравальнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Color space</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Каляровы абшар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Config</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configuration</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Канфігурацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераўтварэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўтарскія правы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Country</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Краіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Pan-scan</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вылучэньне памера панарамы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cycle aspect ratios</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Цыклічна зьмяняць суадносіны бакоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cycle audio streams</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Цыклічна зьмяняць аўдыёструмені</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cycle subtitles</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Цыклічна зьмяняць субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cycle video streams</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Цыклічна зьмяняць відэаструмені</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decoding resolution</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дэкадаваньне рэзалюцыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease Brightness (HW)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць яркасьць (HW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease Contrast (HW)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць кантраснасьць (HW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease Hue (HW)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць каляровасьць (HW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease Saturation (HW)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць насычанасьць (HW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease brightness</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць яркасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease playback rate by 1%</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць хутк. прайгр. на 1%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease playback rate by 10%</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць хутк. прайгр. на 10%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease post processing</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць узровень апрацоўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease subtitle font size</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць памер шрыфта субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dedynamic filter decrease amplification</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Dedynamic фільтар: паменшыць узмацненьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dedynamic filter decrease pre-amplification</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Dedynamic фільтар: паменшыць прадузмацненьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dedynamic filter increase amplification</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Dedynamic фільтар: павялічыць узмацненьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dedynamic filter increase pre-amplification</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Dedynamic фільтар: павялічыць прадузмацненьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Па змаўчаньню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delay</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Затрымка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выдаліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Desktop mode</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэжым 'Працоўны стол'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Digital video (DV)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Лічбавае відэа (ЛВ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable preview while capturing (less CPU usage)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адключыць прадпрагляд пакуль ідзе захоп (памяншае загрузку CPU)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duration</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Працягласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EQ</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Экваляйзэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit bookmark</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэдагаваць закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable buffer for:</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уключыць буфэр для:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кадаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Equalizer enabled</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Экваляйзэр уключаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выхад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit Full Screen</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выхад з поўнаэкраннага рэжыму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fast forward</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наперад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fast rewind</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fixed drives</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Жорсткія дыскі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frame rate</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Хуткасьць перадачы кадраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frame rate conversion</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераўтварэньне хуткасьці перадачы кадраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frames dropped</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прапушчана кадраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frames played</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прайграна кадраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free resize down (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмяніць памер уніз (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free resize left (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмяніць памер налева (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free resize right (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмяніць памер направа (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free resize up (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмяніць памер уверх  (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frequency bands (more bands, more CPU usage)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паласа частотаў (больш палосаў, больш выкарыстаньне цэнтральнага працэсара)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full screen switch</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераключальнік поўнаэкраннага рэжыму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global key</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Глабальная клавіша</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Brightness (HW)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць яркасьць (HW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Contrast (HW)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць кантраснасьць (HW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Hue (HW)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць каляровасьць (HW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Saturation (HW)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць насычанасьць (HW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase brightness</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць яркасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase playback rate by 1%</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць хутк. прайгр. на 1%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase playback rate by 10%</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць хутк. прайгр. на 10%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase post processing</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць узровень апрацоўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase subtitle font size</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць памер шрыфта субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Input</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Увод</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Input type</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Уваходны тып</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jitter (std dev frame time) (mSec)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Флюктуацыя (мсек)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jump backward</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перайсьці назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jump forward</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перайсьці наперад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JumpToTime</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераход на час</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загрузіць1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load subtitle</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загрузіць субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load subtitles</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загрузіць субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Media info</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відэададзеныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>&quot;Згарнуць&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimize to systray</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Згарнуць у трэй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move picture down (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ссунуць  малюнак уніз (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move picture left (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ссунуць  малюнак налева (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move picture right (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ссунуць  малюнак направа (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move picture up (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ссунуць  малюнак уверх (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move subtitles down</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Апусьціць субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move subtitles up</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Падняць субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Movie mode</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэжым фільма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mute</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выключыць гук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Network drives</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сеткавыя дыскі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next CD</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наступны CD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Chapter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наступная частка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open audio file</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адчыніць аўдыёфайл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open movie</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адчыніць фільм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original aspect ratio</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Арыгінальныя суадносіны бакоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Output</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вывад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Output size</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памер вываду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pan In</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць маштаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pan Out</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць маштаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pan-scan</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Панарамаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pause</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паўза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pause movie</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прыпыніць фільм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прайграваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Playlist</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prev</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prev CD</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Папярэдні CD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prev Chapter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Папярэдняя частка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refresh skin</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аднавіць скуру (skin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removable drives</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Гнуткія дыскі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Скід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resize movie window +</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Маштабаваць відэа акно +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resize movie window -</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Маштабаваць відэа акно -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Захаваць2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save subtitle (*.srt)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Захаваць субтытры (*.srt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Seek backward</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перамотка назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Seek forward</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Перамотка наперад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select capture device</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вылучыць прыладу для захопу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select chapter</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вылучэньне часткі фільма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show HW Color controls dialog</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паказаць HW дыялёг наладаў малюнка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show/Hide OSD</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паказаць/Схаваць час фільма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show/Hide main window</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паказаць/Схаваць панэль кіраваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sign</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Подпіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skins</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Скуры (Skins)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Крыніца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пачаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start recording</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пачаць запіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Std dev sync offset (mSec)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стандартны зрух сынхранізацыі (мсек)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Стоп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop movie</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спыніць фільм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitle</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitle editor</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэдактар субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitle time</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Час субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitles on/off</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Субтытры ўкл/адкл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitles time correction + (small steps) / Vobsub inc speed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Час. сынхранізацыя субтытраў + (дакладная) / пав. хуткасьць Vobsub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitles time correction + / Vobsub inc delay</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Часовая сынхранізацыя субтытраў + / пав. затрымку Vobsub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitles time correction - (small steps) / Vobsub dec speed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Час. сынхранізацыя субтытраў - (дакладная) / пам. хуткасьць Vobsub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitles time correction - / Vobsub dec delay)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Часовая сынхранізацыя субтытраў - / пам. затрымку Vobsub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Surface type</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павярхоўны тып</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch repeat modes</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераключыць рэжым паўтору</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch time/frames</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераключыць час/кадры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch wait for vertical-blank</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пераключальнік'Чакаць вэртыкальнага прабела'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TV Tuner</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>ТБ-тюнэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TV tuner configuration</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Налады ТБ-тюнэра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мэта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Загаловак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tuner configuration</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Канфігурацыя тюнэра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video encoder</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відэа кодэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video encoding format</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фармат кадаваньня відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video info</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відэададзеныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video size</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Памер відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video standard</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відэа стандарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Volume Down</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць гучнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Volume Up</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць гучнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom 100%</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Маштаб 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom 200%</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Маштаб 200%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom 50%</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Маштаб 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom in (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Павялічыць маштаб (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom out (in full screen)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паменшыць маштаб (у поўнаэкранным рэж.)</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
